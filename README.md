@@ -11,7 +11,7 @@ plus a landing page:
 
 No build step, no dependencies, nothing loaded from a CDN. Any static host works.
 
-## Before publishing
+## Content decisions worth remembering
 
 1. **Support address.** The pages currently show `aldiyar.dev@gmail.com`, chosen to get the site
    live without waiting on a domain. To move to a `support@` address later, swap it in one pass and
@@ -33,35 +33,35 @@ No build step, no dependencies, nothing loaded from a CDN. Any static host works
    build — no network entitlement, no analytics, hand histories read locally only. **If a future
    version ever gains network access, this policy stops being true and must be rewritten.**
 
-## Publishing on GitHub Pages (free)
+## Live — deployed 20 July 2026
 
-Use a **separate public repository** for the site. Do not publish the main project repo — that
-would put the app's full source code, and anything else in the working tree, on the internet.
+Published on GitHub Pages from a **separate public repository**,
+[a-atpv/rangeforge-site](https://github.com/a-atpv/rangeforge-site), checked out at
+`~/Desktop/rangeforge-site`. It is deliberately not this repo: publishing this one would put the
+app's entire source on the internet.
+
+For App Store Connect:
+
+- Privacy Policy URL — `https://a-atpv.github.io/rangeforge-site/privacy.html`
+- Support URL — `https://a-atpv.github.io/rangeforge-site/`
+
+### Redeploying after an edit
+
+This directory is the source of truth; the deploy checkout is a copy. Edit here, then:
 
 ```sh
-# from the project root
-mkdir -p ../rangeforge-site && cp -R site/. ../rangeforge-site/
-cd ../rangeforge-site
-git init && git add -A && git commit -m "RangeForge site"
-git branch -M main
-git remote add origin https://github.com/<you>/rangeforge-site.git
-git push -u origin main
+cp -R site/. ~/Desktop/rangeforge-site/
+cd ~/Desktop/rangeforge-site && git add -A && git commit -m "..." && git push
 ```
 
-Then on GitHub: **Settings → Pages → Source: Deploy from a branch → `main` / `(root)` → Save**.
-A minute later the site is live at:
+Pages rebuilds in under a minute. Verify before assuming it worked — App Review opens these, and a
+404 on the privacy URL is a rejection:
 
+```sh
+for u in "" privacy.html terms.html; do
+  curl -sS -o /dev/null -w "%{http_code}  $u\n" "https://a-atpv.github.io/rangeforge-site/$u"
+done
 ```
-https://<you>.github.io/rangeforge-site/
-```
-
-Which gives you, for App Store Connect:
-
-- Privacy Policy URL — `https://<you>.github.io/rangeforge-site/privacy.html`
-- Support URL — `https://<you>.github.io/rangeforge-site/`
-
-Check both in a browser before pasting them in. App Review does open them, and a 404 on the
-privacy URL is a rejection.
 
 ## Custom domain later
 
