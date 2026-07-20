@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en" data-lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RangeForge — Poker GTO, ranges &amp; ICM for macOS</title>
+<meta name="description" content="RangeForge is a fully offline poker theory workbench for macOS: Nash push/fold, ICM, equity, a postflop solver, a visual range builder and a hand replayer. No accounts, no internet, no data collection.">
+<link rel="icon" href="icon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <div class="langbar">
+    <button type="button" data-lang="en" aria-pressed="true">EN</button>
+    <button type="button" data-lang="ru" aria-pressed="false">RU</button>
+  </div>
+
+  <header class="hero">
+    <img src="icon.png" alt="RangeForge app icon">
+    <div>
+      <h1>RangeForge</h1>
+      <p class="tagline" lang="en">Poker GTO, ranges &amp; ICM — a study tool for macOS.</p>
+      <p class="tagline" lang="ru">Покерное GTO, ренжи и ICM — инструмент для изучения теории на macOS.</p>
+    </div>
+  </header>
+
+  <div class="prose">
+    <p lang="en">RangeForge is a fast, native workbench for studying poker theory. It brings
+    equilibrium ranges, ICM, equity and a postflop solver into one clean macOS app. Everything is
+    computed on your Mac — there are no accounts, no internet connection and no data collection.</p>
+    <p lang="ru">RangeForge — быстрый нативный инструмент для изучения теории покера. Равновесные
+    ренжи, ICM, эквити и постфлоп-солвер собраны в одном приложении для macOS. Все расчёты идут
+    на вашем Mac: без аккаунтов, без интернета и без сбора данных.</p>
+  </div>
+
+  <h2 lang="en">What it does</h2>
+  <h2 lang="ru">Что умеет</h2>
+
+  <div class="grid">
+    <div class="card">
+      <h3>Nash push/fold</h3>
+      <p lang="en">Unexploitable shove and calling ranges for tournament spots with 2–10 players.
+      Stacks, blinds, antes and payouts; chip-EV or ICM; solved with Monte-Carlo CFR.</p>
+      <p lang="ru">Невыгодные для эксплуатации ренжи шова и колла для турнирных спотов на 2–10
+      игроков. Стеки, блайнды, анте и выплаты; chip-EV или ICM; решается методом Monte-Carlo CFR.</p>
+    </div>
+    <div class="card">
+      <h3 lang="en">ICM &amp; deals</h3>
+      <h3 lang="ru">ICM и делёж</h3>
+      <p lang="en">Turn chip stacks into prize-pool equity with the Malmuth–Harville model, and read
+      the fair chip-chop numbers straight off it.</p>
+      <p lang="ru">Перевод стеков в долю призового фонда по модели Malmuth–Harville и честные суммы
+      для чип-чоп дележа.</p>
+    </div>
+    <div class="card">
+      <h3 lang="en">Equity</h3>
+      <h3 lang="ru">Эквити</h3>
+      <p lang="en">Win/tie equity for up to six players on any board — exact enumeration for fixed
+      hands, fast Monte-Carlo for ranges.</p>
+      <p lang="ru">Шансы на победу для шести игроков на любой доске — точный перебор для конкретных
+      рук, быстрое Монте-Карло для ренжей.</p>
+    </div>
+    <div class="card">
+      <h3 lang="en">Postflop solver</h3>
+      <h3 lang="ru">Постфлоп-солвер</h3>
+      <p lang="en">A heads-up solver on Discounted CFR+ with exact, blocker-aware showdowns. Read
+      the strategy as an action-frequency heat map.</p>
+      <p lang="ru">Хедз-ап солвер на Discounted CFR+ с точным шоудауном и учётом блокеров.
+      Стратегия читается как тепловая карта частот действий.</p>
+    </div>
+    <div class="card">
+      <h3 lang="en">Visual range builder</h3>
+      <h3 lang="ru">Визуальный ренж-билдер</h3>
+      <p lang="en">Paint ranges across the 13×13 grid with weight brushes for mixed strategies, a
+      Top-N% selector, presets and two-way sync with standard notation.</p>
+      <p lang="ru">Рисование ренжей по матрице 13×13, кисти весов для смешанных стратегий, выбор
+      «Топ N%», пресеты и двусторонняя синхронизация со стандартной нотацией.</p>
+    </div>
+    <div class="card">
+      <h3 lang="en">Replayer &amp; session review</h3>
+      <h3 lang="ru">Реплеер и разбор сессии</h3>
+      <p lang="en">Import a hand-history file exported by your poker client, step through hands on a
+      felt table, and have push/fold decisions reviewed automatically against the solver.</p>
+      <p lang="ru">Импорт файла с историей рук, выгруженного вашим покерным клиентом, пошаговый
+      просмотр раздач за столом и автоматический разбор push/fold решений против солвера.</p>
+    </div>
+  </div>
+
+  <h2 lang="en">Privacy</h2>
+  <h2 lang="ru">Приватность</h2>
+
+  <div class="claim prose">
+    <p lang="en"><strong>RangeForge has no network access at all.</strong> It is sandboxed without
+    the network entitlement, so macOS itself prevents it from connecting anywhere. It contains no
+    analytics, no accounts and no tracking of any kind. Hand-history files you import are read on
+    your Mac and never leave it.</p>
+    <p lang="ru"><strong>У RangeForge вообще нет доступа к сети.</strong> Приложение работает в
+    песочнице без сетевого разрешения — macOS сама не даст ему никуда подключиться. В нём нет
+    аналитики, аккаунтов и никакого отслеживания. Файлы с историей рук читаются на вашем Mac и
+    никуда не отправляются.</p>
+    <p class="small" style="margin:0">
+      <a href="privacy.html" lang="en">Read the full privacy policy →</a>
+      <a href="privacy.html" lang="ru">Полная политика конфиденциальности →</a>
+    </p>
+  </div>
+
+  <h2 id="support" lang="en">Support</h2>
+  <h2 id="support-ru" lang="ru">Поддержка</h2>
+
+  <div class="panel prose">
+    <p lang="en">Questions, bug reports and feature requests all go to one place:</p>
+    <p lang="ru">Вопросы, сообщения об ошибках и пожелания — на один адрес:</p>
+
+    <p style="font-size:18px"><a href="mailto:aldiyar.dev@gmail.com">aldiyar.dev@gmail.com</a></p>
+
+    <p lang="en">Replies usually arrive within a few days. To get a useful answer on the first
+    exchange, please include:</p>
+    <p lang="ru">Обычно отвечаю в течение нескольких дней. Чтобы разобраться с первого раза,
+    приложите:</p>
+
+    <ul lang="en">
+      <li>your macOS version and Mac model (Apple menu → About This Mac);</li>
+      <li>the RangeForge version (RangeForge menu → About RangeForge);</li>
+      <li>which module you were in and what you expected to happen instead;</li>
+      <li>a screenshot, if anything looked wrong on screen.</li>
+    </ul>
+    <ul lang="ru">
+      <li>версию macOS и модель Mac (меню Apple → «Об этом Mac»);</li>
+      <li>версию RangeForge (меню RangeForge → «О программе»);</li>
+      <li>в каком модуле это случилось и какого поведения вы ожидали;</li>
+      <li>скриншот, если на экране что-то выглядело не так.</li>
+    </ul>
+
+    <div class="note">
+      <p style="margin:0" lang="en"><strong>Please do not attach hand-history files</strong> unless
+      I ask for one. They contain your play and other players' screen names, and support does not
+      need them to reproduce most problems.</p>
+      <p style="margin:0" lang="ru"><strong>Не прикладывайте файлы с историей рук</strong>, пока я
+      их не попрошу. В них ваша игра и ники других игроков, а для воспроизведения большинства
+      проблем они не нужны.</p>
+    </div>
+  </div>
+
+  <h2 lang="en">Requirements</h2>
+  <h2 lang="ru">Требования</h2>
+
+  <div class="prose">
+    <p lang="en">macOS 14 (Sonoma) or later, on Apple silicon or Intel. RangeForge works fully
+    offline — no internet connection is needed at any point, including first launch.</p>
+    <p lang="ru">macOS 14 (Sonoma) или новее, Apple silicon или Intel. RangeForge полностью работает
+    офлайн — интернет не нужен ни на одном этапе, включая первый запуск.</p>
+  </div>
+
+  <footer>
+    <nav>
+      <a href="index.html" lang="en">Home</a>
+      <a href="index.html" lang="ru">Главная</a>
+      <a href="privacy.html" lang="en">Privacy Policy</a>
+      <a href="privacy.html" lang="ru">Политика конфиденциальности</a>
+      <a href="terms.html" lang="en">Terms of Use</a>
+      <a href="terms.html" lang="ru">Условия использования</a>
+      <a href="mailto:aldiyar.dev@gmail.com">aldiyar.dev@gmail.com</a>
+    </nav>
+    <p class="disclaimer" lang="en">RangeForge is a study and analysis tool for poker theory. It
+    does not offer real-money or simulated gambling, and it is not affiliated with any poker
+    platform or operator. © 2026</p>
+    <p class="disclaimer" lang="ru">RangeForge — инструмент для изучения и анализа теории покера.
+    Он не предоставляет игру на реальные деньги или её имитацию и не связан ни с одной покерной
+    платформой или оператором. © 2026</p>
+  </footer>
+
+</div>
+<script src="lang.js"></script>
+</body>
+</html>

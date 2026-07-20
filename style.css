@@ -1,0 +1,209 @@
+/* RangeForge site — palette lifted from the app's Theme.swift so the page and the
+   product read as one thing. Self-contained: no fonts, scripts, or assets from a CDN. */
+
+:root {
+  --bg:       #171a1f;
+  --panel:    #24262e;
+  --panel-hi: #2e333d;
+  --stroke:   rgba(255, 255, 255, 0.08);
+  --text:     #ebedf2;
+  --subtext:  #99a1ad;
+  --accent:   #33c78c;  /* felt green */
+  --accent-2: #4d9efa;
+  --gold:     #f5c24d;
+  --radius:   12px;
+  --measure:  68ch;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  padding: 0 20px 72px;
+}
+
+.wrap { max-width: 940px; margin: 0 auto; }
+.prose { max-width: var(--measure); }
+
+/* ---- language switch ------------------------------------------------- */
+/* Both languages ship in the HTML; the toggle only hides one. A reviewer
+   reading source sees the full English text either way. */
+html[data-lang="en"] [lang="ru"],
+html[data-lang="ru"] [lang="en"] { display: none; }
+
+.langbar {
+  display: flex;
+  justify-content: flex-end;
+  gap: 6px;
+  padding: 18px 0 0;
+}
+
+.langbar button {
+  background: transparent;
+  border: 1px solid var(--stroke);
+  color: var(--subtext);
+  border-radius: 7px;
+  padding: 4px 11px;
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+  transition: color .15s, border-color .15s, background .15s;
+}
+
+.langbar button:hover { color: var(--text); border-color: rgba(255, 255, 255, 0.2); }
+
+.langbar button[aria-pressed="true"] {
+  color: #000;
+  background: var(--accent);
+  border-color: var(--accent);
+  font-weight: 600;
+}
+
+/* ---- header ---------------------------------------------------------- */
+header.hero {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  padding: 40px 0 12px;
+  flex-wrap: wrap;
+}
+
+header.hero img {
+  width: 104px;
+  height: 104px;
+  border-radius: 22px;
+  flex: none;
+}
+
+h1 {
+  font-size: clamp(30px, 5vw, 42px);
+  line-height: 1.1;
+  margin: 0 0 6px;
+  letter-spacing: -0.02em;
+}
+
+.tagline { color: var(--subtext); font-size: 17px; margin: 0; }
+
+/* ---- typography ------------------------------------------------------ */
+h2 {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--subtext);
+  margin: 44px 0 14px;
+}
+
+h3 { font-size: 18px; margin: 26px 0 8px; letter-spacing: -0.01em; }
+
+p { margin: 0 0 14px; }
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+ul { margin: 0 0 14px; padding-left: 20px; }
+li { margin-bottom: 7px; }
+
+strong { color: #fff; font-weight: 600; }
+
+code {
+  background: var(--panel-hi);
+  padding: 2px 6px;
+  border-radius: 5px;
+  font-size: 0.9em;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+.muted { color: var(--subtext); }
+.small { font-size: 14px; }
+
+/* ---- panels ---------------------------------------------------------- */
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--stroke);
+  border-radius: var(--radius);
+  padding: 20px 22px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(255px, 1fr));
+  gap: 14px;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--stroke);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+}
+
+.card h3 { margin: 0 0 6px; font-size: 16px; }
+.card p { margin: 0; color: var(--subtext); font-size: 14.5px; line-height: 1.55; }
+
+/* The privacy claim is the page's strongest verifiable statement — give it the accent. */
+.claim {
+  border-left: 3px solid var(--accent);
+  background: linear-gradient(90deg, rgba(51, 199, 140, 0.09), transparent 65%);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 16px 20px;
+  margin: 0 0 14px;
+}
+
+.note {
+  border-left: 3px solid var(--gold);
+  background: rgba(245, 194, 77, 0.06);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 14px 18px;
+  font-size: 14.5px;
+}
+
+.updated {
+  color: var(--subtext);
+  font-size: 13.5px;
+  margin: 0 0 30px;
+  padding-bottom: 22px;
+  border-bottom: 1px solid var(--stroke);
+}
+
+/* ---- footer ---------------------------------------------------------- */
+footer {
+  margin-top: 56px;
+  padding-top: 22px;
+  border-top: 1px solid var(--stroke);
+  color: var(--subtext);
+  font-size: 14px;
+}
+
+footer nav { display: flex; gap: 18px; flex-wrap: wrap; margin-bottom: 14px; }
+footer .disclaimer { max-width: var(--measure); line-height: 1.55; }
+
+/* ---- light mode ------------------------------------------------------ */
+/* The app is dark-only, but a policy page gets opened, printed and skimmed in
+   daylight — and a reviewer should never fight the contrast. */
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg:       #ffffff;
+    --panel:    #f6f7f9;
+    --panel-hi: #eceef2;
+    --stroke:   rgba(0, 0, 0, 0.10);
+    --text:     #14171c;
+    --subtext:  #5c6470;
+    --accent:   #10855a;
+    --accent-2: #1f6fd0;
+    --gold:     #9a6f04;
+  }
+  .langbar button[aria-pressed="true"] { color: #fff; }
+  .claim { background: linear-gradient(90deg, rgba(16, 133, 90, 0.08), transparent 65%); }
+  .note  { background: rgba(154, 111, 4, 0.07); }
+}
+
+@media print {
+  body { background: #fff; color: #000; padding: 0; }
+  .langbar, footer nav { display: none; }
+}
