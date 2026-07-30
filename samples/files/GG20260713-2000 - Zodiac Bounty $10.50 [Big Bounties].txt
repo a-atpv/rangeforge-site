@@ -1,0 +1,1276 @@
+Poker Hand #TM6194903068: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/13 20:20:26
+Table '83' 8-max Seat #5 is the button
+Seat 1: 113f4fff (104,287 in chips)
+Seat 2: 6a6cd195 (105,330 in chips)
+Seat 3: Hero (97,632 in chips)
+Seat 4: 991da326 (230,769 in chips)
+Seat 5: 8391036d (217,571 in chips)
+Seat 6: 77583d14 (66,188 in chips)
+Seat 7: 8d7a2de7 (2,188,155 in chips)
+Seat 8: 2fee1d2a (217,660 in chips)
+113f4fff: posts the ante 1,000
+6a6cd195: posts the ante 1,000
+Hero: posts the ante 1,000
+991da326: posts the ante 1,000
+8391036d: posts the ante 1,000
+77583d14: posts the ante 1,000
+8d7a2de7: posts the ante 1,000
+2fee1d2a: posts the ante 1,000
+77583d14: posts small blind 4,000
+8d7a2de7: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [Qc Ad]
+Dealt to 113f4fff 
+Dealt to 6a6cd195 
+Dealt to 991da326 
+Dealt to 8391036d 
+Dealt to 77583d14 
+Dealt to 8d7a2de7 
+Dealt to 2fee1d2a 
+2fee1d2a: folds
+113f4fff: raises 95,287 to 103,287 and is all-in
+6a6cd195: folds
+Hero: calls 96,632 and is all-in
+991da326: calls 103,287
+8391036d: calls 103,287
+77583d14: folds
+8d7a2de7: calls 95,287
+*** FLOP *** [6c Kh Jh]
+8d7a2de7: checks
+991da326: checks
+8391036d: checks
+*** TURN *** [6c Kh Jh] [2h]
+8d7a2de7: checks
+991da326: checks
+8391036d: checks
+*** RIVER *** [6c Kh Jh 2h] [Qs]
+8d7a2de7: checks
+991da326: checks
+8391036d: checks
+*** SHOWDOWN ***
+113f4fff: shows [Kc Js]
+Hero: shows [Qc Ad]
+991da326: shows [Qh Td]
+8391036d: shows [5d Ks]
+8d7a2de7: shows [9s 8s]
+113f4fff collected 495,160 from pot
+113f4fff collected 26,620 from pot
+*** SUMMARY ***
+Total pot 521,780 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c Kh Jh 2h Qs]
+Seat 1: 113f4fff showed [Kc Js] and won (521,780) with two pair, Kings and Jacks
+Seat 2: 6a6cd195 folded on the River
+Seat 3: Hero showed [Qc Ad] and lost with a pair of Queens
+Seat 4: 991da326 showed [Qh Td] and lost with a pair of Queens
+Seat 5: 8391036d (button) showed [5d Ks] and lost with a pair of Kings
+Seat 6: 77583d14 (small blind) folded on the River
+Seat 7: 8d7a2de7 (big blind) showed [9s 8s] and lost with high card King
+Seat 8: 2fee1d2a folded on the River
+
+
+Poker Hand #TM6194903064: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/13 20:19:34
+Table '83' 8-max Seat #4 is the button
+Seat 1: 113f4fff (105,287 in chips)
+Seat 2: 5923ba81 (82,497 in chips)
+Seat 3: Hero (98,632 in chips)
+Seat 4: 184eadec (176,503 in chips)
+Seat 5: ee979b8d (727,501 in chips)
+Seat 6: 77583d14 (75,188 in chips)
+Seat 7: 8d7a2de7 (890,848 in chips)
+Seat 8: e19b55f4 (299,806 in chips)
+113f4fff: posts the ante 1,000
+5923ba81: posts the ante 1,000
+Hero: posts the ante 1,000
+184eadec: posts the ante 1,000
+ee979b8d: posts the ante 1,000
+77583d14: posts the ante 1,000
+8d7a2de7: posts the ante 1,000
+e19b55f4: posts the ante 1,000
+ee979b8d: posts small blind 4,000
+77583d14: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [Ts Ks]
+Dealt to 113f4fff 
+Dealt to 5923ba81 
+Dealt to 184eadec 
+Dealt to ee979b8d 
+Dealt to 77583d14 
+Dealt to 8d7a2de7 
+Dealt to e19b55f4 
+8d7a2de7: calls 8,000
+e19b55f4: calls 8,000
+113f4fff: folds
+5923ba81: raises 73,497 to 81,497 and is all-in
+Hero: folds
+184eadec: calls 81,497
+ee979b8d: calls 77,497
+77583d14: folds
+8d7a2de7: calls 73,497
+e19b55f4: raises 209,992 to 291,489
+184eadec: calls 94,006 and is all-in
+ee979b8d: raises 435,012 to 726,501 and is all-in
+8d7a2de7: calls 645,004
+e19b55f4: calls 7,317 and is all-in
+*** FLOP *** [8d 3d 6h]
+*** TURN *** [8d 3d 6h] [4d]
+*** RIVER *** [8d 3d 6h 4d] [Td]
+*** SHOWDOWN ***
+5923ba81: shows [Ah Jc]
+184eadec: shows [Js Th]
+ee979b8d: shows [9s Qs]
+8d7a2de7: shows [Ad Tc]
+e19b55f4: shows [Jd Qh]
+8d7a2de7 collected 423,485 from pot
+8d7a2de7 collected 376,024 from pot
+8d7a2de7 collected 369,909 from pot
+8d7a2de7 collected 855,390 from pot
+*** SUMMARY ***
+Total pot 2,024,808 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d 3d 6h 4d Td]
+Seat 1: 113f4fff folded on the River
+Seat 2: 5923ba81 showed [Ah Jc] and lost with high card Ace
+Seat 3: Hero folded on the River
+Seat 4: 184eadec (button) showed [Js Th] and lost with a pair of Tens
+Seat 5: ee979b8d (small blind) showed [9s Qs] and lost with high card Queen
+Seat 6: 77583d14 (big blind) folded on the River
+Seat 7: 8d7a2de7 showed [Ad Tc] and won (2,024,808) with a flush, Ace high
+Seat 8: e19b55f4 showed [Jd Qh] and lost with a flush, Jack high
+
+
+Poker Hand #TM6194903040: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/13 20:18:19
+Table '83' 8-max Seat #3 is the button
+Seat 1: 3e4e4920 (62,834 in chips)
+Seat 2: 5923ba81 (83,497 in chips)
+Seat 3: Hero (161,466 in chips)
+Seat 4: 184eadec (181,503 in chips)
+Seat 5: ee979b8d (736,501 in chips)
+Seat 6: 77583d14 (76,188 in chips)
+Seat 7: 8d7a2de7 (899,848 in chips)
+Seat 8: e19b55f4 (149,138 in chips)
+3e4e4920: posts the ante 1,000
+5923ba81: posts the ante 1,000
+Hero: posts the ante 1,000
+184eadec: posts the ante 1,000
+ee979b8d: posts the ante 1,000
+77583d14: posts the ante 1,000
+8d7a2de7: posts the ante 1,000
+e19b55f4: posts the ante 1,000
+184eadec: posts small blind 4,000
+ee979b8d: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [Ks Qc]
+Dealt to 3e4e4920 
+Dealt to 5923ba81 
+Dealt to 184eadec 
+Dealt to ee979b8d 
+Dealt to 77583d14 
+Dealt to 8d7a2de7 
+Dealt to e19b55f4 
+77583d14: folds
+8d7a2de7: calls 8,000
+e19b55f4: calls 8,000
+3e4e4920: raises 53,834 to 61,834 and is all-in
+5923ba81: folds
+Hero: calls 61,834
+184eadec: folds
+ee979b8d: folds
+8d7a2de7: folds
+e19b55f4: calls 53,834
+*** FLOP *** [2c 8h 8c]
+e19b55f4: checks
+Hero: checks
+*** TURN *** [2c 8h 8c] [Ac]
+e19b55f4: checks
+Hero: checks
+*** RIVER *** [2c 8h 8c Ac] [Td]
+e19b55f4: checks
+Hero: checks
+*** SHOWDOWN ***
+3e4e4920: shows [9c Jd]
+Hero: shows [Ks Qc]
+e19b55f4: shows [Ah 7d]
+e19b55f4 collected 213,502 from pot
+*** SUMMARY ***
+Total pot 213,502 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 8h 8c Ac Td]
+Seat 1: 3e4e4920 showed [9c Jd] and lost with a pair of Eights
+Seat 2: 5923ba81 folded on the River
+Seat 3: Hero (button) showed [Ks Qc] and lost with a pair of Eights
+Seat 4: 184eadec (small blind) folded on the River
+Seat 5: ee979b8d (big blind) folded on the River
+Seat 6: 77583d14 folded on the River
+Seat 7: 8d7a2de7 folded on the River
+Seat 8: e19b55f4 showed [Ah 7d] and won (213,502) with two pair, Aces and Eights
+
+
+Poker Hand #TM6194903027: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/13 20:17:21
+Table '83' 8-max Seat #4 is the button
+Seat 1: 3e4e4920 (63,834 in chips)
+Seat 2: 5923ba81 (84,497 in chips)
+Seat 3: Hero (162,466 in chips)
+Seat 4: 184eadec (190,503 in chips)
+Seat 5: ee979b8d (819,901 in chips)
+Seat 7: 8d7a2de7 (803,448 in chips)
+Seat 8: e19b55f4 (150,138 in chips)
+3e4e4920: posts the ante 1,000
+5923ba81: posts the ante 1,000
+Hero: posts the ante 1,000
+184eadec: posts the ante 1,000
+ee979b8d: posts the ante 1,000
+8d7a2de7: posts the ante 1,000
+e19b55f4: posts the ante 1,000
+ee979b8d: posts small blind 4,000
+8d7a2de7: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [Th 5d]
+Dealt to 3e4e4920 
+Dealt to 5923ba81 
+Dealt to 184eadec 
+Dealt to ee979b8d 
+Dealt to 8d7a2de7 
+Dealt to e19b55f4 
+e19b55f4: folds
+3e4e4920: folds
+5923ba81: folds
+Hero: folds
+184eadec: calls 8,000
+ee979b8d: calls 4,000
+8d7a2de7: checks
+*** FLOP *** [4h Qc 3s]
+ee979b8d: checks
+8d7a2de7: checks
+184eadec: checks
+*** TURN *** [4h Qc 3s] [4c]
+ee979b8d: checks
+8d7a2de7: bets 23,250
+184eadec: folds
+ee979b8d: calls 23,250
+*** RIVER *** [4h Qc 3s 4c] [Qs]
+ee979b8d: checks
+8d7a2de7: bets 51,150
+ee979b8d: calls 51,150
+*** SHOWDOWN ***
+ee979b8d: shows [8s 8c]
+8d7a2de7: shows [4s Ac]
+8d7a2de7 collected 179,800 from pot
+*** SUMMARY ***
+Total pot 179,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h Qc 3s 4c Qs]
+Seat 1: 3e4e4920 folded on the River
+Seat 2: 5923ba81 folded on the River
+Seat 3: Hero folded on the River
+Seat 4: 184eadec (button) folded on the River
+Seat 5: ee979b8d (small blind) showed [8s 8c] and lost with two pair, Queens and Eights
+Seat 7: 8d7a2de7 (big blind) showed [4s Ac] and won (179,800) with a full house, Fours full of Queens
+Seat 8: e19b55f4 folded on the River
+
+
+Poker Hand #TM6194902987: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/13 20:16:20
+Table '83' 8-max Seat #1 is the button
+Seat 1: 3e4e4920 (64,834 in chips)
+Seat 2: 5923ba81 (89,497 in chips)
+Seat 3: Hero (422,603 in chips)
+Seat 4: 184eadec (191,503 in chips)
+Seat 5: ee979b8d (260,137 in chips)
+Seat 6: adc597f6 (95,144 in chips)
+Seat 7: 8d7a2de7 (804,448 in chips)
+Seat 8: 0b0edd24 (196,483 in chips)
+3e4e4920: posts the ante 1,000
+5923ba81: posts the ante 1,000
+Hero: posts the ante 1,000
+184eadec: posts the ante 1,000
+ee979b8d: posts the ante 1,000
+adc597f6: posts the ante 1,000
+8d7a2de7: posts the ante 1,000
+0b0edd24: posts the ante 1,000
+5923ba81: posts small blind 4,000
+Hero: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [4d 9d]
+Dealt to 3e4e4920 
+Dealt to 5923ba81 
+Dealt to 184eadec 
+Dealt to ee979b8d 
+Dealt to adc597f6 
+Dealt to 8d7a2de7 
+Dealt to 0b0edd24 
+184eadec: folds
+ee979b8d: raises 12,000 to 20,000
+adc597f6: raises 74,144 to 94,144 and is all-in
+8d7a2de7: folds
+0b0edd24: calls 94,144
+3e4e4920: folds
+5923ba81: folds
+Hero: calls 86,144
+ee979b8d: calls 74,144
+*** FLOP *** [8d Ah 9h]
+Hero: checks
+ee979b8d: checks
+0b0edd24: checks
+*** TURN *** [8d Ah 9h] [Qs]
+Hero: checks
+ee979b8d: checks
+0b0edd24: checks
+*** RIVER *** [8d Ah 9h Qs] [9c]
+Hero: bets 194,288
+ee979b8d: calls 164,993 and is all-in
+0b0edd24: calls 101,339 and is all-in
+*** SHOWDOWN ***
+Hero: shows [4d 9d]
+ee979b8d: shows [Js Ts]
+adc597f6: shows [Tc Qc]
+0b0edd24: shows [Kh Kd]
+ee979b8d collected 388,576 from pot
+ee979b8d collected 304,017 from pot
+ee979b8d collected 127,308 from pot
+Hero collected 29,295 from pot
+*** SUMMARY ***
+Total pot 849,196 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d Ah 9h Qs 9c]
+Seat 1: 3e4e4920 (button) folded on the River
+Seat 2: 5923ba81 (small blind) folded on the River
+Seat 3: Hero (big blind) showed [4d 9d] and won (29,295) with three of a kind, Nines
+Seat 4: 184eadec folded on the River
+Seat 5: ee979b8d showed [Js Ts] and won (819,901) with a straight, Eight to Queen
+Seat 6: adc597f6 showed [Tc Qc] and lost with two pair, Queens and Nines
+Seat 7: 8d7a2de7 folded on the River
+Seat 8: 0b0edd24 showed [Kh Kd] and lost with two pair, Kings and Nines
+
+
+Poker Hand #TM6194902979: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/13 20:14:59
+Table '83' 8-max Seat #8 is the button
+Seat 1: 3e4e4920 (69,834 in chips)
+Seat 2: 5923ba81 (98,497 in chips)
+Seat 3: Hero (423,603 in chips)
+Seat 4: 184eadec (148,503 in chips)
+Seat 5: ee979b8d (269,137 in chips)
+Seat 6: adc597f6 (96,144 in chips)
+Seat 7: 8d7a2de7 (813,448 in chips)
+Seat 8: 0b0edd24 (205,483 in chips)
+3e4e4920: posts the ante 1,000
+5923ba81: posts the ante 1,000
+Hero: posts the ante 1,000
+184eadec: posts the ante 1,000
+ee979b8d: posts the ante 1,000
+adc597f6: posts the ante 1,000
+8d7a2de7: posts the ante 1,000
+0b0edd24: posts the ante 1,000
+3e4e4920: posts small blind 4,000
+5923ba81: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [2s 6d]
+Dealt to 3e4e4920 
+Dealt to 5923ba81 
+Dealt to 184eadec 
+Dealt to ee979b8d 
+Dealt to adc597f6 
+Dealt to 8d7a2de7 
+Dealt to 0b0edd24 
+Hero: folds
+184eadec: calls 8,000
+ee979b8d: calls 8,000
+adc597f6: folds
+8d7a2de7: calls 8,000
+0b0edd24: calls 8,000
+3e4e4920: folds
+5923ba81: checks
+*** FLOP *** [4c Qc 7h]
+5923ba81: checks
+184eadec: checks
+ee979b8d: checks
+8d7a2de7: checks
+0b0edd24: checks
+*** TURN *** [4c Qc 7h] [5h]
+5923ba81: checks
+184eadec: checks
+ee979b8d: checks
+8d7a2de7: checks
+0b0edd24: checks
+*** RIVER *** [4c Qc 7h 5h] [2h]
+5923ba81: checks
+184eadec: checks
+ee979b8d: checks
+8d7a2de7: checks
+0b0edd24: checks
+*** SHOWDOWN ***
+5923ba81: shows [8s 3c]
+184eadec: shows [Qs 4d]
+ee979b8d: shows [7c Ts]
+8d7a2de7: shows [4h Jd]
+0b0edd24: shows [Ah 7d]
+184eadec collected 52,000 from pot
+*** SUMMARY ***
+Total pot 52,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Qc 7h 5h 2h]
+Seat 1: 3e4e4920 (small blind) folded on the River
+Seat 2: 5923ba81 (big blind) showed [8s 3c] and lost with high card Queen
+Seat 3: Hero folded on the River
+Seat 4: 184eadec showed [Qs 4d] and won (52,000) with two pair, Queens and Fours
+Seat 5: ee979b8d showed [7c Ts] and lost with a pair of Sevens
+Seat 6: adc597f6 folded on the River
+Seat 7: 8d7a2de7 showed [4h Jd] and lost with a pair of Fours
+Seat 8: 0b0edd24 (button) showed [Ah 7d] and lost with a pair of Sevens
+
+
+Poker Hand #TM6194902959: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/13 20:14:00
+Table '83' 8-max Seat #2 is the button
+Seat 2: 5923ba81 (99,497 in chips)
+Seat 3: Hero (428,603 in chips)
+Seat 4: 184eadec (138,503 in chips)
+Seat 5: ee979b8d (270,137 in chips)
+Seat 6: adc597f6 (97,144 in chips)
+Seat 7: 8d7a2de7 (814,448 in chips)
+Seat 8: 0b0edd24 (206,483 in chips)
+5923ba81: posts the ante 1,000
+Hero: posts the ante 1,000
+184eadec: posts the ante 1,000
+ee979b8d: posts the ante 1,000
+adc597f6: posts the ante 1,000
+8d7a2de7: posts the ante 1,000
+0b0edd24: posts the ante 1,000
+Hero: posts small blind 4,000
+184eadec: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [7s 3s]
+Dealt to 5923ba81 
+Dealt to 184eadec 
+Dealt to ee979b8d 
+Dealt to adc597f6 
+Dealt to 8d7a2de7 
+Dealt to 0b0edd24 
+ee979b8d: folds
+adc597f6: folds
+8d7a2de7: folds
+0b0edd24: folds
+5923ba81: folds
+Hero: folds
+184eadec collected 19,000 from pot
+*** SUMMARY ***
+Total pot 19,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 2: 5923ba81 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: 184eadec (big blind) collected (19,000)
+Seat 5: ee979b8d folded before Flop
+Seat 6: adc597f6 folded before Flop
+Seat 7: 8d7a2de7 folded before Flop
+Seat 8: 0b0edd24 folded before Flop
+
+
+Poker Hand #TM6194902933: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/13 20:12:52
+Table '83' 8-max Seat #3 is the button
+Seat 2: 5923ba81 (100,497 in chips)
+Seat 3: Hero (510,171 in chips)
+Seat 4: 41989ea2 (81,568 in chips)
+Seat 5: ee979b8d (279,137 in chips)
+Seat 7: 8d7a2de7 (640,312 in chips)
+Seat 8: 0b0edd24 (207,483 in chips)
+5923ba81: posts the ante 1,000
+Hero: posts the ante 1,000
+41989ea2: posts the ante 1,000
+ee979b8d: posts the ante 1,000
+8d7a2de7: posts the ante 1,000
+0b0edd24: posts the ante 1,000
+41989ea2: posts small blind 4,000
+ee979b8d: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [9d Jh]
+Dealt to 5923ba81 
+Dealt to 41989ea2 
+Dealt to ee979b8d 
+Dealt to 8d7a2de7 
+Dealt to 0b0edd24 
+8d7a2de7: calls 8,000
+0b0edd24: folds
+5923ba81: folds
+Hero: calls 8,000
+41989ea2: raises 72,568 to 80,568 and is all-in
+ee979b8d: folds
+8d7a2de7: calls 72,568
+Hero: calls 72,568
+*** FLOP *** [2c 5d Kd]
+8d7a2de7: checks
+Hero: checks
+*** TURN *** [2c 5d Kd] [Ad]
+8d7a2de7: checks
+Hero: checks
+*** RIVER *** [2c 5d Kd Ad] [Ac]
+8d7a2de7: checks
+Hero: checks
+*** SHOWDOWN ***
+Hero: shows [9d Jh]
+41989ea2: shows [Td Th]
+8d7a2de7: shows [8d Ks]
+8d7a2de7 collected 255,704 from pot
+*** SUMMARY ***
+Total pot 255,704 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c 5d Kd Ad Ac]
+Seat 2: 5923ba81 folded on the River
+Seat 3: Hero (button) showed [9d Jh] and lost with a pair of Aces
+Seat 4: 41989ea2 (small blind) showed [Td Th] and lost with two pair, Aces and Tens
+Seat 5: ee979b8d (big blind) folded on the River
+Seat 7: 8d7a2de7 showed [8d Ks] and won (255,704) with two pair, Aces and Kings
+Seat 8: 0b0edd24 folded on the River
+
+
+Poker Hand #TM6194902908: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/13 20:11:27
+Table '83' 8-max Seat #5 is the button
+Seat 1: bc79cac8 (111,587 in chips)
+Seat 2: 5923ba81 (101,497 in chips)
+Seat 3: Hero (626,181 in chips)
+Seat 4: 41989ea2 (82,568 in chips)
+Seat 5: ee979b8d (395,147 in chips)
+Seat 6: 2bfd5919 (62,685 in chips)
+Seat 7: 8d7a2de7 (116,010 in chips)
+Seat 8: 0b0edd24 (323,493 in chips)
+bc79cac8: posts the ante 1,000
+5923ba81: posts the ante 1,000
+Hero: posts the ante 1,000
+41989ea2: posts the ante 1,000
+ee979b8d: posts the ante 1,000
+2bfd5919: posts the ante 1,000
+8d7a2de7: posts the ante 1,000
+0b0edd24: posts the ante 1,000
+2bfd5919: posts small blind 4,000
+8d7a2de7: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [5d 5c]
+Dealt to bc79cac8 
+Dealt to 5923ba81 
+Dealt to 41989ea2 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 8d7a2de7 
+Dealt to 0b0edd24 
+0b0edd24: calls 8,000
+bc79cac8: calls 8,000
+5923ba81: folds
+Hero: calls 8,000
+41989ea2: folds
+ee979b8d: calls 8,000
+2bfd5919: raises 53,685 to 61,685 and is all-in
+8d7a2de7: raises 53,325 to 115,010 and is all-in
+0b0edd24: calls 107,010
+bc79cac8: calls 102,587 and is all-in
+Hero: calls 107,010
+ee979b8d: calls 107,010
+*** FLOP *** [Kc Jc Ad]
+0b0edd24: checks
+Hero: checks
+ee979b8d: checks
+*** TURN *** [Kc Jc Ad] [2d]
+0b0edd24: checks
+Hero: checks
+ee979b8d: checks
+*** RIVER *** [Kc Jc Ad 2d] [3s]
+0b0edd24: checks
+Hero: checks
+ee979b8d: checks
+*** SHOWDOWN ***
+bc79cac8: shows [8h Qs]
+Hero: shows [5d 5c]
+ee979b8d: shows [6d 8d]
+2bfd5919: shows [Jh Ks]
+8d7a2de7: shows [Td Qd]
+0b0edd24: shows [Qh 4h]
+8d7a2de7 collected 378,110 from pot
+8d7a2de7 collected 244,510 from pot
+8d7a2de7 collected 17,692 from pot
+*** SUMMARY ***
+Total pot 640,312 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kc Jc Ad 2d 3s]
+Seat 1: bc79cac8 showed [8h Qs] and lost with high card Ace
+Seat 2: 5923ba81 folded on the River
+Seat 3: Hero showed [5d 5c] and lost with a pair of Fives
+Seat 4: 41989ea2 folded on the River
+Seat 5: ee979b8d (button) showed [6d 8d] and lost with high card Ace
+Seat 6: 2bfd5919 (small blind) showed [Jh Ks] and lost with two pair, Kings and Jacks
+Seat 7: 8d7a2de7 (big blind) showed [Td Qd] and won (640,312) with a straight, Ten to Ace
+Seat 8: 0b0edd24 showed [Qh 4h] and lost with high card Ace
+
+
+Poker Hand #TM6194902886: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/13 20:09:54
+Table '83' 8-max Seat #4 is the button
+Seat 1: bc79cac8 (117,187 in chips)
+Seat 2: 5923ba81 (107,097 in chips)
+Seat 3: Hero (631,781 in chips)
+Seat 4: 41989ea2 (88,168 in chips)
+Seat 5: ee979b8d (400,747 in chips)
+Seat 6: 2bfd5919 (28,485 in chips)
+Seat 7: 8d7a2de7 (116,610 in chips)
+Seat 8: 0b0edd24 (329,093 in chips)
+bc79cac8: posts the ante 600
+5923ba81: posts the ante 600
+Hero: posts the ante 600
+41989ea2: posts the ante 600
+ee979b8d: posts the ante 600
+2bfd5919: posts the ante 600
+8d7a2de7: posts the ante 600
+0b0edd24: posts the ante 600
+ee979b8d: posts small blind 2,500
+2bfd5919: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [Ks 9h]
+Dealt to bc79cac8 
+Dealt to 5923ba81 
+Dealt to 41989ea2 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 8d7a2de7 
+Dealt to 0b0edd24 
+8d7a2de7: folds
+0b0edd24: calls 5,000
+bc79cac8: calls 5,000
+5923ba81: calls 5,000
+Hero: calls 5,000
+41989ea2: calls 5,000
+ee979b8d: calls 2,500
+2bfd5919: checks
+*** FLOP *** [7h 4s 8s]
+ee979b8d: checks
+2bfd5919: checks
+0b0edd24: checks
+bc79cac8: checks
+5923ba81: checks
+Hero: checks
+41989ea2: checks
+*** TURN *** [7h 4s 8s] [8h]
+ee979b8d: checks
+2bfd5919: checks
+0b0edd24: checks
+bc79cac8: checks
+5923ba81: checks
+Hero: checks
+41989ea2: checks
+*** RIVER *** [7h 4s 8s 8h] [Ah]
+ee979b8d: checks
+2bfd5919: checks
+0b0edd24: checks
+bc79cac8: checks
+5923ba81: checks
+Hero: checks
+41989ea2: checks
+*** SHOWDOWN ***
+bc79cac8: shows [4h Jd]
+5923ba81: shows [Tc Qc]
+Hero: shows [Ks 9h]
+41989ea2: shows [3h Ts]
+ee979b8d: shows [Qs 5h]
+2bfd5919: shows [5s 7d]
+0b0edd24: shows [9s 6c]
+2bfd5919 collected 39,800 from pot
+*** SUMMARY ***
+Total pot 39,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 4s 8s 8h Ah]
+Seat 1: bc79cac8 showed [4h Jd] and lost with two pair, Eights and Fours
+Seat 2: 5923ba81 showed [Tc Qc] and lost with a pair of Eights
+Seat 3: Hero showed [Ks 9h] and lost with a pair of Eights
+Seat 4: 41989ea2 (button) showed [3h Ts] and lost with a pair of Eights
+Seat 5: ee979b8d (small blind) showed [Qs 5h] and lost with a pair of Eights
+Seat 6: 2bfd5919 (big blind) showed [5s 7d] and won (39,800) with two pair, Eights and Sevens
+Seat 7: 8d7a2de7 folded on the River
+Seat 8: 0b0edd24 showed [9s 6c] and lost with a pair of Eights
+
+
+Poker Hand #TM6194902848: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/13 20:09:13
+Table '83' 8-max Seat #3 is the button
+Seat 1: bc79cac8 (117,787 in chips)
+Seat 2: 5923ba81 (123,077 in chips)
+Seat 3: Hero (647,761 in chips)
+Seat 4: 41989ea2 (104,148 in chips)
+Seat 5: ee979b8d (406,347 in chips)
+Seat 6: 2bfd5919 (29,085 in chips)
+Seat 7: 8d7a2de7 (117,210 in chips)
+Seat 8: 0b0edd24 (273,753 in chips)
+bc79cac8: posts the ante 600
+5923ba81: posts the ante 600
+Hero: posts the ante 600
+41989ea2: posts the ante 600
+ee979b8d: posts the ante 600
+2bfd5919: posts the ante 600
+8d7a2de7: posts the ante 600
+0b0edd24: posts the ante 600
+41989ea2: posts small blind 2,500
+ee979b8d: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [6c As]
+Dealt to bc79cac8 
+Dealt to 5923ba81 
+Dealt to 41989ea2 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 8d7a2de7 
+Dealt to 0b0edd24 
+2bfd5919: folds
+8d7a2de7: folds
+0b0edd24: calls 5,000
+bc79cac8: folds
+5923ba81: raises 10,380 to 15,380
+Hero: calls 15,380
+41989ea2: calls 12,880
+ee979b8d: folds
+0b0edd24: calls 10,380
+*** FLOP *** [Jd 7d 9d]
+41989ea2: checks
+0b0edd24: checks
+5923ba81: checks
+Hero: checks
+*** TURN *** [Jd 7d 9d] [Jc]
+41989ea2: checks
+0b0edd24: checks
+5923ba81: checks
+Hero: checks
+*** RIVER *** [Jd 7d 9d Jc] [3s]
+41989ea2: checks
+0b0edd24: checks
+5923ba81: checks
+Hero: checks
+*** SHOWDOWN ***
+5923ba81: shows [Kc Ks]
+Hero: shows [6c As]
+41989ea2: shows [Ad 9c]
+0b0edd24: shows [Js 8d]
+0b0edd24 collected 71,320 from pot
+*** SUMMARY ***
+Total pot 71,320 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 7d 9d Jc 3s]
+Seat 1: bc79cac8 folded on the River
+Seat 2: 5923ba81 showed [Kc Ks] and lost with two pair, Kings and Jacks
+Seat 3: Hero (button) showed [6c As] and lost with a pair of Jacks
+Seat 4: 41989ea2 (small blind) showed [Ad 9c] and lost with two pair, Jacks and Nines
+Seat 5: ee979b8d (big blind) folded on the River
+Seat 6: 2bfd5919 folded on the River
+Seat 7: 8d7a2de7 folded on the River
+Seat 8: 0b0edd24 showed [Js 8d] and won (71,320) with three of a kind, Jacks
+
+
+Poker Hand #TM6194902832: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/13 20:08:21
+Table '83' 8-max Seat #2 is the button
+Seat 1: bff9d7e0 (23,354 in chips)
+Seat 2: 5923ba81 (123,677 in chips)
+Seat 3: Hero (552,545 in chips)
+Seat 4: 41989ea2 (127,502 in chips)
+Seat 5: ee979b8d (406,947 in chips)
+Seat 6: 2bfd5919 (29,685 in chips)
+Seat 7: 8d7a2de7 (140,564 in chips)
+Seat 8: 0b0edd24 (297,107 in chips)
+bff9d7e0: posts the ante 600
+5923ba81: posts the ante 600
+Hero: posts the ante 600
+41989ea2: posts the ante 600
+ee979b8d: posts the ante 600
+2bfd5919: posts the ante 600
+8d7a2de7: posts the ante 600
+0b0edd24: posts the ante 600
+Hero: posts small blind 2,500
+41989ea2: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [Ks 6d]
+Dealt to bff9d7e0 
+Dealt to 5923ba81 
+Dealt to 41989ea2 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 8d7a2de7 
+Dealt to 0b0edd24 
+ee979b8d: folds
+2bfd5919: folds
+8d7a2de7: calls 5,000
+0b0edd24: calls 5,000
+bff9d7e0: raises 17,754 to 22,754 and is all-in
+5923ba81: folds
+Hero: calls 20,254
+41989ea2: calls 17,754
+8d7a2de7: calls 17,754
+0b0edd24: calls 17,754
+*** FLOP *** [Ts 2d 3h]
+Hero: checks
+41989ea2: checks
+8d7a2de7: checks
+0b0edd24: checks
+*** TURN *** [Ts 2d 3h] [4d]
+Hero: checks
+41989ea2: checks
+8d7a2de7: checks
+0b0edd24: checks
+*** RIVER *** [Ts 2d 3h 4d] [5c]
+Hero: bets 78,256
+41989ea2: folds
+8d7a2de7: folds
+0b0edd24: folds
+*** SHOWDOWN ***
+bff9d7e0: shows [Th Qs]
+Hero: shows [Ks 6d]
+Hero collected 118,570 from pot
+Hero collected 78,256 from pot
+*** SUMMARY ***
+Total pot 196,826 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 2d 3h 4d 5c]
+Seat 1: bff9d7e0 showed [Th Qs] and lost with a pair of Tens
+Seat 2: 5923ba81 (button) folded on the River
+Seat 3: Hero (small blind) showed [Ks 6d] and won (196,826) with a straight, Deuce to Six
+Seat 4: 41989ea2 (big blind) folded on the River
+Seat 5: ee979b8d folded on the River
+Seat 6: 2bfd5919 folded on the River
+Seat 7: 8d7a2de7 folded on the River
+Seat 8: 0b0edd24 folded on the River
+
+
+Poker Hand #TM6194902812: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/13 20:07:23
+Table '83' 8-max Seat #1 is the button
+Seat 1: bff9d7e0 (23,954 in chips)
+Seat 2: 89daac6a (35,618 in chips)
+Seat 3: Hero (558,145 in chips)
+Seat 4: 41989ea2 (128,102 in chips)
+Seat 5: ee979b8d (407,547 in chips)
+Seat 6: 2bfd5919 (114,286 in chips)
+Seat 7: 20b7f499 (84,601 in chips)
+Seat 8: 0b0edd24 (84,887 in chips)
+bff9d7e0: posts the ante 600
+89daac6a: posts the ante 600
+Hero: posts the ante 600
+41989ea2: posts the ante 600
+ee979b8d: posts the ante 600
+2bfd5919: posts the ante 600
+20b7f499: posts the ante 600
+0b0edd24: posts the ante 600
+89daac6a: posts small blind 2,500
+Hero: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [6c 8d]
+Dealt to bff9d7e0 
+Dealt to 89daac6a 
+Dealt to 41989ea2 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 20b7f499 
+Dealt to 0b0edd24 
+41989ea2: folds
+ee979b8d: folds
+2bfd5919: calls 5,000
+20b7f499: calls 5,000
+0b0edd24: calls 5,000
+bff9d7e0: folds
+89daac6a: raises 30,018 to 35,018 and is all-in
+Hero: folds
+2bfd5919: calls 30,018
+20b7f499: calls 30,018
+0b0edd24: calls 30,018
+*** FLOP *** [3s Qd 4s]
+2bfd5919: checks
+20b7f499: checks
+0b0edd24: checks
+*** TURN *** [3s Qd 4s] [Qh]
+2bfd5919: checks
+20b7f499: bets 48,983 and is all-in
+0b0edd24: calls 48,983
+2bfd5919: calls 48,983
+*** RIVER *** [3s Qd 4s Qh] [5c]
+2bfd5919: checks
+0b0edd24: checks
+*** SHOWDOWN ***
+89daac6a: shows [7c Tc]
+2bfd5919: shows [Ah 6s]
+20b7f499: shows [9h Qs]
+0b0edd24: shows [Qc Th]
+0b0edd24 collected 149,872 from pot
+0b0edd24 collected 146,949 from pot
+*** SUMMARY ***
+Total pot 296,821 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s Qd 4s Qh 5c]
+Seat 1: bff9d7e0 (button) folded on the River
+Seat 2: 89daac6a (small blind) showed [7c Tc] and lost with a pair of Queens
+Seat 3: Hero (big blind) folded on the River
+Seat 4: 41989ea2 folded on the River
+Seat 5: ee979b8d folded on the River
+Seat 6: 2bfd5919 showed [Ah 6s] and lost with a pair of Queens
+Seat 7: 20b7f499 showed [9h Qs] and lost with three of a kind, Queens
+Seat 8: 0b0edd24 showed [Qc Th] and won (296,821) with three of a kind, Queens
+
+
+Poker Hand #TM6194902797: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/13 20:06:40
+Table '83' 8-max Seat #8 is the button
+Seat 1: bff9d7e0 (154,526 in chips)
+Seat 2: 89daac6a (67,486 in chips)
+Seat 3: Hero (195,197 in chips)
+Seat 4: 41989ea2 (133,702 in chips)
+Seat 5: ee979b8d (538,119 in chips)
+Seat 6: 2bfd5919 (114,886 in chips)
+Seat 7: 20b7f499 (116,469 in chips)
+Seat 8: 0b0edd24 (116,755 in chips)
+bff9d7e0: posts the ante 600
+89daac6a: posts the ante 600
+Hero: posts the ante 600
+41989ea2: posts the ante 600
+ee979b8d: posts the ante 600
+2bfd5919: posts the ante 600
+20b7f499: posts the ante 600
+0b0edd24: posts the ante 600
+bff9d7e0: posts small blind 2,500
+89daac6a: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [Qs 3s]
+Dealt to bff9d7e0 
+Dealt to 89daac6a 
+Dealt to 41989ea2 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 20b7f499 
+Dealt to 0b0edd24 
+Hero: calls 5,000
+41989ea2: calls 5,000
+ee979b8d: calls 5,000
+2bfd5919: folds
+20b7f499: calls 5,000
+0b0edd24: calls 5,000
+bff9d7e0: calls 2,500
+89daac6a: checks
+*** FLOP *** [6s Ts 8d]
+bff9d7e0: checks
+89daac6a: checks
+Hero: checks
+41989ea2: checks
+ee979b8d: checks
+20b7f499: checks
+0b0edd24: checks
+*** TURN *** [6s Ts 8d] [8s]
+bff9d7e0: checks
+89daac6a: checks
+Hero: bets 26,268
+41989ea2: folds
+ee979b8d: calls 26,268
+20b7f499: calls 26,268
+0b0edd24: calls 26,268
+bff9d7e0: calls 26,268
+89daac6a: calls 26,268
+*** RIVER *** [6s Ts 8d 8s] [3c]
+bff9d7e0: checks
+89daac6a: checks
+Hero: bets 98,704
+ee979b8d: calls 98,704
+20b7f499: folds
+0b0edd24: folds
+bff9d7e0: calls 98,704
+89daac6a: folds
+*** SHOWDOWN ***
+bff9d7e0: shows [3d Ah]
+Hero: shows [Qs 3s]
+ee979b8d: shows [6d Td]
+Hero collected 493,520 from pot
+*** SUMMARY ***
+Total pot 493,520 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Ts 8d 8s 3c]
+Seat 1: bff9d7e0 (small blind) showed [3d Ah] and lost with two pair, Eights and Treys
+Seat 2: 89daac6a (big blind) folded on the River
+Seat 3: Hero showed [Qs 3s] and won (493,520) with a flush, Queen high
+Seat 4: 41989ea2 folded on the River
+Seat 5: ee979b8d showed [6d Td] and lost with two pair, Tens and Eights
+Seat 6: 2bfd5919 folded on the River
+Seat 7: 20b7f499 folded on the River
+Seat 8: 0b0edd24 (button) folded on the River
+
+
+Poker Hand #TM6194902779: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/13 20:05:31
+Table '83' 8-max Seat #1 is the button
+Seat 1: bff9d7e0 (160,126 in chips)
+Seat 3: Hero (200,797 in chips)
+Seat 4: 41989ea2 (139,302 in chips)
+Seat 5: ee979b8d (543,719 in chips)
+Seat 6: 2bfd5919 (86,886 in chips)
+Seat 7: 20b7f499 (122,069 in chips)
+bff9d7e0: posts the ante 600
+Hero: posts the ante 600
+41989ea2: posts the ante 600
+ee979b8d: posts the ante 600
+2bfd5919: posts the ante 600
+20b7f499: posts the ante 600
+Hero: posts small blind 2,500
+41989ea2: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [3h Ts]
+Dealt to bff9d7e0 
+Dealt to 41989ea2 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 20b7f499 
+ee979b8d: calls 5,000
+2bfd5919: calls 5,000
+20b7f499: calls 5,000
+bff9d7e0: calls 5,000
+Hero: calls 2,500
+41989ea2: checks
+*** FLOP *** [2h 7s Td]
+Hero: checks
+41989ea2: checks
+ee979b8d: checks
+2bfd5919: checks
+20b7f499: checks
+bff9d7e0: checks
+*** TURN *** [2h 7s Td] [Qh]
+Hero: checks
+41989ea2: checks
+ee979b8d: checks
+2bfd5919: checks
+20b7f499: checks
+bff9d7e0: checks
+*** RIVER *** [2h 7s Td Qh] [4d]
+Hero: checks
+41989ea2: checks
+ee979b8d: checks
+2bfd5919: checks
+20b7f499: checks
+bff9d7e0: checks
+*** SHOWDOWN ***
+bff9d7e0: shows [5s Qc]
+Hero: shows [3h Ts]
+41989ea2: shows [Ah 6c]
+ee979b8d: shows [5h Kh]
+2bfd5919: shows [Qs 7h]
+20b7f499: shows [Jd 7c]
+2bfd5919 collected 33,600 from pot
+*** SUMMARY ***
+Total pot 33,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 7s Td Qh 4d]
+Seat 1: bff9d7e0 (button) showed [5s Qc] and lost with a pair of Queens
+Seat 3: Hero (small blind) showed [3h Ts] and lost with a pair of Tens
+Seat 4: 41989ea2 (big blind) showed [Ah 6c] and lost with high card Ace
+Seat 5: ee979b8d showed [5h Kh] and lost with high card King
+Seat 6: 2bfd5919 showed [Qs 7h] and won (33,600) with two pair, Queens and Sevens
+Seat 7: 20b7f499 showed [Jd 7c] and lost with a pair of Sevens
+
+
+Poker Hand #TM6194902760: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/13 20:04:16
+Table '83' 8-max Seat #6 is the button
+Seat 1: bff9d7e0 (160,726 in chips)
+Seat 2: d877099a (106,337 in chips)
+Seat 3: Hero (201,397 in chips)
+Seat 4: 49078040 (122,437 in chips)
+Seat 5: ee979b8d (173,289 in chips)
+Seat 6: 2bfd5919 (116,711 in chips)
+Seat 7: 20b7f499 (125,169 in chips)
+Seat 8: aee25f0e (107,531 in chips)
+bff9d7e0: posts the ante 600
+d877099a: posts the ante 600
+Hero: posts the ante 600
+49078040: posts the ante 600
+ee979b8d: posts the ante 600
+2bfd5919: posts the ante 600
+20b7f499: posts the ante 600
+aee25f0e: posts the ante 600
+20b7f499: posts small blind 2,500
+aee25f0e: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [3c 6h]
+Dealt to bff9d7e0 
+Dealt to d877099a 
+Dealt to 49078040 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 20b7f499 
+Dealt to aee25f0e 
+bff9d7e0: folds
+d877099a: calls 5,000
+Hero: folds
+49078040: calls 5,000
+ee979b8d: calls 5,000
+2bfd5919: calls 5,000
+20b7f499: folds
+aee25f0e: checks
+*** FLOP *** [8d Qd Qs]
+aee25f0e: checks
+d877099a: checks
+49078040: checks
+ee979b8d: checks
+2bfd5919: checks
+*** TURN *** [8d Qd Qs] [8h]
+aee25f0e: checks
+d877099a: checks
+49078040: checks
+ee979b8d: bets 24,225
+2bfd5919: calls 24,225
+aee25f0e: calls 24,225
+d877099a: calls 24,225
+49078040: calls 24,225
+*** RIVER *** [8d Qd Qs 8h] [4c]
+aee25f0e: checks
+d877099a: checks
+49078040: checks
+ee979b8d: bets 101,260
+2bfd5919: folds
+aee25f0e: calls 77,706 and is all-in
+d877099a: calls 76,512 and is all-in
+49078040: calls 92,612 and is all-in
+*** SHOWDOWN ***
+d877099a: shows [Kd Tc]
+49078040: shows [7c 7s]
+ee979b8d: shows [9s Qc]
+aee25f0e: shows [Ts Kh]
+ee979b8d collected 459,473 from pot
+ee979b8d collected 3,582 from pot
+ee979b8d collected 29,812 from pot
+ee979b8d collected 8,648 from pot
+*** SUMMARY ***
+Total pot 501,515 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8d Qd Qs 8h 4c]
+Seat 1: bff9d7e0 folded on the River
+Seat 2: d877099a showed [Kd Tc] and lost with two pair, Queens and Eights
+Seat 3: Hero folded on the River
+Seat 4: 49078040 showed [7c 7s] and lost with two pair, Queens and Eights
+Seat 5: ee979b8d showed [9s Qc] and won (501,515) with a full house, Queens full of Eights
+Seat 6: 2bfd5919 (button) folded on the River
+Seat 7: 20b7f499 (small blind) folded on the River
+Seat 8: aee25f0e (big blind) showed [Ts Kh] and lost with two pair, Queens and Eights
+
+
+Poker Hand #TM6194902751: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/13 20:03:00
+Table '83' 8-max Seat #5 is the button
+Seat 1: bff9d7e0 (184,976 in chips)
+Seat 2: d877099a (130,587 in chips)
+Seat 3: Hero (76,447 in chips)
+Seat 4: 49078040 (123,037 in chips)
+Seat 5: ee979b8d (197,539 in chips)
+Seat 6: 2bfd5919 (119,811 in chips)
+Seat 7: 20b7f499 (149,419 in chips)
+Seat 8: aee25f0e (131,781 in chips)
+bff9d7e0: posts the ante 600
+d877099a: posts the ante 600
+Hero: posts the ante 600
+49078040: posts the ante 600
+ee979b8d: posts the ante 600
+2bfd5919: posts the ante 600
+20b7f499: posts the ante 600
+aee25f0e: posts the ante 600
+2bfd5919: posts small blind 2,500
+20b7f499: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [Qs 5c]
+Dealt to bff9d7e0 
+Dealt to d877099a 
+Dealt to 49078040 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 20b7f499 
+Dealt to aee25f0e 
+aee25f0e: calls 5,000
+bff9d7e0: calls 5,000
+d877099a: calls 5,000
+Hero: calls 5,000
+49078040: folds
+ee979b8d: calls 5,000
+2bfd5919: folds
+20b7f499: bets 18,650
+aee25f0e: calls 18,650
+bff9d7e0: calls 18,650
+d877099a: calls 18,650
+Hero: calls 18,650
+ee979b8d: calls 18,650
+*** FLOP *** [6c Jd Jh]
+20b7f499: checks
+aee25f0e: checks
+bff9d7e0: checks
+d877099a: checks
+Hero: checks
+ee979b8d: checks
+*** TURN *** [6c Jd Jh] [9d]
+20b7f499: checks
+aee25f0e: checks
+bff9d7e0: checks
+d877099a: checks
+Hero: checks
+ee979b8d: checks
+*** RIVER *** [6c Jd Jh 9d] [5h]
+20b7f499: checks
+aee25f0e: checks
+bff9d7e0: checks
+d877099a: checks
+Hero: checks
+ee979b8d: checks
+*** SHOWDOWN ***
+bff9d7e0: shows [Ac Ts]
+d877099a: shows [Ad 8d]
+Hero: shows [Qs 5c]
+ee979b8d: shows [Qd 3h]
+20b7f499: shows [Kc Qc]
+aee25f0e: shows [Td 7h]
+Hero collected 149,200 from pot
+*** SUMMARY ***
+Total pot 149,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6c Jd Jh 9d 5h]
+Seat 1: bff9d7e0 showed [Ac Ts] and lost with a pair of Jacks
+Seat 2: d877099a showed [Ad 8d] and lost with a pair of Jacks
+Seat 3: Hero showed [Qs 5c] and won (149,200) with two pair, Jacks and Fives
+Seat 4: 49078040 folded on the River
+Seat 5: ee979b8d (button) showed [Qd 3h] and lost with a pair of Jacks
+Seat 6: 2bfd5919 (small blind) folded on the River
+Seat 7: 20b7f499 (big blind) showed [Kc Qc] and lost with a pair of Jacks
+Seat 8: aee25f0e showed [Td 7h] and lost with a pair of Jacks
+
+
+Poker Hand #TM6194902737: Tournament #302451882, Zodiac Bounty $10.50 [Big Bounties] Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/13 20:01:33
+Table '83' 8-max Seat #4 is the button
+Seat 1: bff9d7e0 (185,576 in chips)
+Seat 2: d877099a (131,187 in chips)
+Seat 3: Hero (82,047 in chips)
+Seat 4: 49078040 (128,637 in chips)
+Seat 5: ee979b8d (178,339 in chips)
+Seat 6: 2bfd5919 (125,411 in chips)
+Seat 7: 20b7f499 (150,019 in chips)
+Seat 8: aee25f0e (132,381 in chips)
+bff9d7e0: posts the ante 600
+d877099a: posts the ante 600
+Hero: posts the ante 600
+49078040: posts the ante 600
+ee979b8d: posts the ante 600
+2bfd5919: posts the ante 600
+20b7f499: posts the ante 600
+aee25f0e: posts the ante 600
+ee979b8d: posts small blind 2,500
+2bfd5919: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [6h 8s]
+Dealt to bff9d7e0 
+Dealt to d877099a 
+Dealt to 49078040 
+Dealt to ee979b8d 
+Dealt to 2bfd5919 
+Dealt to 20b7f499 
+Dealt to aee25f0e 
+20b7f499: folds
+aee25f0e: folds
+bff9d7e0: folds
+d877099a: folds
+Hero: calls 5,000
+49078040: calls 5,000
+ee979b8d: calls 2,500
+2bfd5919: checks
+*** FLOP *** [6s Kh Jc]
+ee979b8d: checks
+2bfd5919: checks
+Hero: checks
+49078040: checks
+*** TURN *** [6s Kh Jc] [Ts]
+ee979b8d: checks
+2bfd5919: checks
+Hero: checks
+49078040: checks
+*** RIVER *** [6s Kh Jc Ts] [4c]
+ee979b8d: checks
+2bfd5919: checks
+Hero: checks
+49078040: checks
+*** SHOWDOWN ***
+Hero: shows [6h 8s]
+49078040: shows [6d 9s]
+ee979b8d: shows [Jd 7h]
+2bfd5919: shows [Ac 4h]
+ee979b8d collected 24,800 from pot
+*** SUMMARY ***
+Total pot 24,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6s Kh Jc Ts 4c]
+Seat 1: bff9d7e0 folded on the River
+Seat 2: d877099a folded on the River
+Seat 3: Hero showed [6h 8s] and lost with a pair of Sixes
+Seat 4: 49078040 (button) showed [6d 9s] and lost with a pair of Sixes
+Seat 5: ee979b8d (small blind) showed [Jd 7h] and won (24,800) with a pair of Jacks
+Seat 6: 2bfd5919 (big blind) showed [Ac 4h] and lost with a pair of Fours
+Seat 7: 20b7f499 folded on the River
+Seat 8: aee25f0e folded on the River

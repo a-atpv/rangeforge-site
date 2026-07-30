@@ -1,0 +1,1485 @@
+Poker Hand #TM6185773099: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/07 19:07:25
+Table '237' 8-max Seat #1 is the button
+Seat 1: 89574754 (120,950 in chips)
+Seat 2: 476da239 (140,174 in chips)
+Seat 3: Hero (10,383 in chips)
+Seat 4: 9e5bf68e (351,162 in chips)
+Seat 5: e0c8341a (34,623 in chips)
+Seat 6: 23b25fe0 (48,984 in chips)
+Seat 7: d0bbab63 (666,054 in chips)
+Seat 8: 12e2ed83 (65,015 in chips)
+89574754: posts the ante 1,000
+476da239: posts the ante 1,000
+Hero: posts the ante 1,000
+9e5bf68e: posts the ante 1,000
+e0c8341a: posts the ante 1,000
+23b25fe0: posts the ante 1,000
+d0bbab63: posts the ante 1,000
+12e2ed83: posts the ante 1,000
+476da239: posts small blind 4,000
+Hero: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [Jc Kh]
+Dealt to 89574754 
+Dealt to 476da239 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 12e2ed83 
+9e5bf68e: raises 12,000 to 20,000
+e0c8341a: raises 13,623 to 33,623 and is all-in
+23b25fe0: folds
+d0bbab63: calls 33,623
+12e2ed83: folds
+89574754: folds
+476da239: calls 29,623
+Hero: calls 1,383 and is all-in
+9e5bf68e: calls 13,623
+*** FLOP *** [3h 6d Tc]
+476da239: checks
+9e5bf68e: checks
+d0bbab63: checks
+*** TURN *** [3h 6d Tc] [5s]
+476da239: checks
+9e5bf68e: checks
+d0bbab63: checks
+*** RIVER *** [3h 6d Tc 5s] [5c]
+476da239: checks
+9e5bf68e: checks
+d0bbab63: checks
+*** SHOWDOWN ***
+476da239: shows [2h Ad]
+Hero: shows [Jc Kh]
+9e5bf68e: shows [Qd Ac]
+e0c8341a: shows [Qc Js]
+d0bbab63: shows [9h 8c]
+9e5bf68e collected 54,915 from pot
+9e5bf68e collected 96,960 from pot
+*** SUMMARY ***
+Total pot 151,875 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3h 6d Tc 5s 5c]
+Seat 1: 89574754 (button) folded on the River
+Seat 2: 476da239 (small blind) showed [2h Ad] and lost with a pair of Fives
+Seat 3: Hero (big blind) showed [Jc Kh] and lost with a pair of Fives
+Seat 4: 9e5bf68e showed [Qd Ac] and won (151,875) with a pair of Fives
+Seat 5: e0c8341a showed [Qc Js] and lost with a pair of Fives
+Seat 6: 23b25fe0 folded on the River
+Seat 7: d0bbab63 showed [9h 8c] and lost with a pair of Fives
+Seat 8: 12e2ed83 folded on the River
+
+
+Poker Hand #TM6185773059: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/07 19:06:27
+Table '237' 8-max Seat #8 is the button
+Seat 1: 89574754 (125,950 in chips)
+Seat 2: 476da239 (149,174 in chips)
+Seat 3: Hero (11,383 in chips)
+Seat 4: 9e5bf68e (332,162 in chips)
+Seat 5: e0c8341a (35,623 in chips)
+Seat 6: 23b25fe0 (49,984 in chips)
+Seat 7: d0bbab63 (667,054 in chips)
+Seat 8: 12e2ed83 (66,015 in chips)
+89574754: posts the ante 1,000
+476da239: posts the ante 1,000
+Hero: posts the ante 1,000
+9e5bf68e: posts the ante 1,000
+e0c8341a: posts the ante 1,000
+23b25fe0: posts the ante 1,000
+d0bbab63: posts the ante 1,000
+12e2ed83: posts the ante 1,000
+89574754: posts small blind 4,000
+476da239: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [3h 5s]
+Dealt to 89574754 
+Dealt to 476da239 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 12e2ed83 
+Hero: folds
+9e5bf68e: calls 8,000
+e0c8341a: folds
+23b25fe0: folds
+d0bbab63: folds
+12e2ed83: folds
+89574754: folds
+476da239: checks
+*** FLOP *** [Jh 6s 4h]
+476da239: checks
+9e5bf68e: checks
+*** TURN *** [Jh 6s 4h] [Ac]
+476da239: checks
+9e5bf68e: checks
+*** RIVER *** [Jh 6s 4h Ac] [3s]
+476da239: checks
+9e5bf68e: checks
+*** SHOWDOWN ***
+476da239: shows [4d Kd]
+9e5bf68e: shows [Jc Qh]
+9e5bf68e collected 28,000 from pot
+*** SUMMARY ***
+Total pot 28,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 6s 4h Ac 3s]
+Seat 1: 89574754 (small blind) folded on the River
+Seat 2: 476da239 (big blind) showed [4d Kd] and lost with a pair of Fours
+Seat 3: Hero folded on the River
+Seat 4: 9e5bf68e showed [Jc Qh] and won (28,000) with a pair of Jacks
+Seat 5: e0c8341a folded on the River
+Seat 6: 23b25fe0 folded on the River
+Seat 7: d0bbab63 folded on the River
+Seat 8: 12e2ed83 (button) folded on the River
+
+
+Poker Hand #TM6185773046: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level11(4,000/8,000(1,000)) - 2026/07/07 19:05:33
+Table '237' 8-max Seat #7 is the button
+Seat 1: 89574754 (134,950 in chips)
+Seat 2: 476da239 (158,174 in chips)
+Seat 3: Hero (12,383 in chips)
+Seat 4: 9e5bf68e (333,162 in chips)
+Seat 5: e0c8341a (36,623 in chips)
+Seat 6: 23b25fe0 (50,984 in chips)
+Seat 7: d0bbab63 (640,054 in chips)
+Seat 8: 12e2ed83 (71,015 in chips)
+89574754: posts the ante 1,000
+476da239: posts the ante 1,000
+Hero: posts the ante 1,000
+9e5bf68e: posts the ante 1,000
+e0c8341a: posts the ante 1,000
+23b25fe0: posts the ante 1,000
+d0bbab63: posts the ante 1,000
+12e2ed83: posts the ante 1,000
+12e2ed83: posts small blind 4,000
+89574754: posts big blind 8,000
+*** HOLE CARDS ***
+Dealt to Hero [6h 2c]
+Dealt to 89574754 
+Dealt to 476da239 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 12e2ed83 
+476da239: calls 8,000
+Hero: folds
+9e5bf68e: folds
+e0c8341a: folds
+23b25fe0: folds
+d0bbab63: calls 8,000
+12e2ed83: folds
+89574754: checks
+*** FLOP *** [Qd 7h 4s]
+89574754: checks
+476da239: checks
+d0bbab63: checks
+*** TURN *** [Qd 7h 4s] [7s]
+89574754: checks
+476da239: checks
+d0bbab63: checks
+*** RIVER *** [Qd 7h 4s 7s] [5h]
+89574754: checks
+476da239: checks
+d0bbab63: checks
+*** SHOWDOWN ***
+89574754: shows [Ad Jc]
+476da239: shows [Ac 5s]
+d0bbab63: shows [Qh 8s]
+d0bbab63 collected 36,000 from pot
+*** SUMMARY ***
+Total pot 36,000 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 7h 4s 7s 5h]
+Seat 1: 89574754 (big blind) showed [Ad Jc] and lost with a pair of Sevens
+Seat 2: 476da239 showed [Ac 5s] and lost with two pair, Sevens and Fives
+Seat 3: Hero folded on the River
+Seat 4: 9e5bf68e folded on the River
+Seat 5: e0c8341a folded on the River
+Seat 6: 23b25fe0 folded on the River
+Seat 7: d0bbab63 (button) showed [Qh 8s] and won (36,000) with two pair, Queens and Sevens
+Seat 8: 12e2ed83 (small blind) folded on the River
+
+
+Poker Hand #TM6185773011: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/07 19:04:00
+Table '237' 8-max Seat #6 is the button
+Seat 1: 89574754 (135,550 in chips)
+Seat 2: 476da239 (120,714 in chips)
+Seat 3: Hero (12,983 in chips)
+Seat 4: 9e5bf68e (349,142 in chips)
+Seat 5: e0c8341a (37,223 in chips)
+Seat 6: 23b25fe0 (51,584 in chips)
+Seat 7: d0bbab63 (643,154 in chips)
+Seat 8: 12e2ed83 (86,995 in chips)
+89574754: posts the ante 600
+476da239: posts the ante 600
+Hero: posts the ante 600
+9e5bf68e: posts the ante 600
+e0c8341a: posts the ante 600
+23b25fe0: posts the ante 600
+d0bbab63: posts the ante 600
+12e2ed83: posts the ante 600
+d0bbab63: posts small blind 2,500
+12e2ed83: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [3s Kh]
+Dealt to 89574754 
+Dealt to 476da239 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 12e2ed83 
+89574754: folds
+476da239: calls 5,000
+Hero: folds
+9e5bf68e: raises 10,380 to 15,380
+e0c8341a: folds
+23b25fe0: folds
+d0bbab63: folds
+12e2ed83: calls 10,380
+476da239: calls 10,380
+*** FLOP *** [Ts 5c Jc]
+12e2ed83: checks
+476da239: checks
+9e5bf68e: checks
+*** TURN *** [Ts 5c Jc] [4d]
+12e2ed83: checks
+476da239: checks
+9e5bf68e: checks
+*** RIVER *** [Ts 5c Jc 4d] [Kc]
+12e2ed83: checks
+476da239: checks
+9e5bf68e: checks
+*** SHOWDOWN ***
+476da239: shows [4c Ks]
+9e5bf68e: shows [Kd Ac]
+12e2ed83: shows [Qh 7c]
+476da239 collected 53,440 from pot
+*** SUMMARY ***
+Total pot 53,440 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 5c Jc 4d Kc]
+Seat 1: 89574754 folded on the River
+Seat 2: 476da239 showed [4c Ks] and won (53,440) with two pair, Kings and Fours
+Seat 3: Hero folded on the River
+Seat 4: 9e5bf68e showed [Kd Ac] and lost with a pair of Kings
+Seat 5: e0c8341a folded on the River
+Seat 6: 23b25fe0 (button) folded on the River
+Seat 7: d0bbab63 (small blind) folded on the River
+Seat 8: 12e2ed83 (big blind) showed [Qh 7c] and lost with high card King
+
+
+Poker Hand #TM6185772976: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/07 19:03:11
+Table '237' 8-max Seat #5 is the button
+Seat 1: 89574754 (296,701 in chips)
+Seat 2: 2690d408 (45,786 in chips)
+Seat 3: Hero (13,583 in chips)
+Seat 4: 9e5bf68e (349,742 in chips)
+Seat 5: e0c8341a (37,823 in chips)
+Seat 6: 23b25fe0 (212,735 in chips)
+Seat 7: d0bbab63 (227,480 in chips)
+Seat 8: 12e2ed83 (132,781 in chips)
+89574754: posts the ante 600
+2690d408: posts the ante 600
+Hero: posts the ante 600
+9e5bf68e: posts the ante 600
+e0c8341a: posts the ante 600
+23b25fe0: posts the ante 600
+d0bbab63: posts the ante 600
+12e2ed83: posts the ante 600
+23b25fe0: posts small blind 2,500
+d0bbab63: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [5s 2c]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 12e2ed83 
+12e2ed83: calls 5,000
+89574754: calls 5,000
+2690d408: raises 40,186 to 45,186 and is all-in
+Hero: folds
+9e5bf68e: folds
+e0c8341a: folds
+23b25fe0: calls 42,686
+d0bbab63: calls 40,186
+12e2ed83: calls 40,186
+89574754: calls 40,186
+*** FLOP *** [Ts 7d Qc]
+23b25fe0: checks
+d0bbab63: checks
+12e2ed83: checks
+89574754: checks
+*** TURN *** [Ts 7d Qc] [Qs]
+23b25fe0: checks
+d0bbab63: checks
+12e2ed83: checks
+89574754: checks
+*** RIVER *** [Ts 7d Qc Qs] [7h]
+23b25fe0: checks
+d0bbab63: bets 115,365
+12e2ed83: folds
+89574754: calls 115,365
+23b25fe0: calls 115,365
+*** SHOWDOWN ***
+89574754: shows [2d Ah]
+2690d408: shows [4c Ac]
+23b25fe0: shows [Ad 8h]
+d0bbab63: shows [9c 7c]
+d0bbab63 collected 230,730 from pot
+d0bbab63 collected 346,095 from pot
+*** SUMMARY ***
+Total pot 576,825 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 7d Qc Qs 7h]
+Seat 1: 89574754 showed [2d Ah] and lost with two pair, Queens and Sevens
+Seat 2: 2690d408 showed [4c Ac] and lost with two pair, Queens and Sevens
+Seat 3: Hero folded on the River
+Seat 4: 9e5bf68e folded on the River
+Seat 5: e0c8341a (button) folded on the River
+Seat 6: 23b25fe0 (small blind) showed [Ad 8h] and lost with two pair, Queens and Sevens
+Seat 7: d0bbab63 (big blind) showed [9c 7c] and won (576,825) with a full house, Sevens full of Queens
+Seat 8: 12e2ed83 folded on the River
+
+
+Poker Hand #TM6185772954: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/07 19:01:45
+Table '237' 8-max Seat #4 is the button
+Seat 1: 89574754 (275,001 in chips)
+Seat 2: 2690d408 (46,386 in chips)
+Seat 3: Hero (14,183 in chips)
+Seat 4: 9e5bf68e (355,342 in chips)
+Seat 5: e0c8341a (40,923 in chips)
+Seat 6: 23b25fe0 (218,335 in chips)
+Seat 7: d0bbab63 (228,080 in chips)
+Seat 8: 12e2ed83 (138,381 in chips)
+89574754: posts the ante 600
+2690d408: posts the ante 600
+Hero: posts the ante 600
+9e5bf68e: posts the ante 600
+e0c8341a: posts the ante 600
+23b25fe0: posts the ante 600
+d0bbab63: posts the ante 600
+12e2ed83: posts the ante 600
+e0c8341a: posts small blind 2,500
+23b25fe0: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [Qc 7c]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 12e2ed83 
+d0bbab63: folds
+12e2ed83: calls 5,000
+89574754: calls 5,000
+2690d408: folds
+Hero: folds
+9e5bf68e: calls 5,000
+e0c8341a: folds
+23b25fe0: checks
+*** FLOP *** [8c 5s Jc]
+23b25fe0: checks
+12e2ed83: checks
+89574754: checks
+9e5bf68e: checks
+*** TURN *** [8c 5s Jc] [Jd]
+23b25fe0: checks
+12e2ed83: checks
+89574754: checks
+9e5bf68e: checks
+*** RIVER *** [8c 5s Jc Jd] [2c]
+23b25fe0: checks
+12e2ed83: checks
+89574754: checks
+9e5bf68e: checks
+*** SHOWDOWN ***
+89574754: shows [8d Qh]
+9e5bf68e: shows [4s As]
+23b25fe0: shows [9c 3h]
+12e2ed83: shows [6c 6h]
+89574754 collected 27,300 from pot
+*** SUMMARY ***
+Total pot 27,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 5s Jc Jd 2c]
+Seat 1: 89574754 showed [8d Qh] and won (27,300) with two pair, Jacks and Eights
+Seat 2: 2690d408 folded on the River
+Seat 3: Hero folded on the River
+Seat 4: 9e5bf68e (button) showed [4s As] and lost with a pair of Jacks
+Seat 5: e0c8341a (small blind) folded on the River
+Seat 6: 23b25fe0 (big blind) showed [9c 3h] and lost with a pair of Jacks
+Seat 7: d0bbab63 folded on the River
+Seat 8: 12e2ed83 showed [6c 6h] and lost with two pair, Jacks and Sixes
+
+
+Poker Hand #TM6185772950: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/07 19:00:15
+Table '237' 8-max Seat #3 is the button
+Seat 1: 89574754 (431,668 in chips)
+Seat 2: 2690d408 (46,986 in chips)
+Seat 3: Hero (14,783 in chips)
+Seat 4: 9e5bf68e (358,442 in chips)
+Seat 5: e0c8341a (46,523 in chips)
+Seat 6: 23b25fe0 (218,935 in chips)
+Seat 7: d0bbab63 (156,667 in chips)
+Seat 8: 12e2ed83 (42,627 in chips)
+89574754: posts the ante 600
+2690d408: posts the ante 600
+Hero: posts the ante 600
+9e5bf68e: posts the ante 600
+e0c8341a: posts the ante 600
+23b25fe0: posts the ante 600
+d0bbab63: posts the ante 600
+12e2ed83: posts the ante 600
+9e5bf68e: posts small blind 2,500
+e0c8341a: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [Td 2h]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 12e2ed83 
+23b25fe0: folds
+d0bbab63: calls 5,000
+12e2ed83: raises 37,027 to 42,027 and is all-in
+89574754: raises 35,596 to 77,623
+2690d408: folds
+Hero: folds
+9e5bf68e: folds
+e0c8341a: folds
+d0bbab63: raises 78,444 to 156,067 and is all-in
+89574754: calls 78,444
+*** FLOP *** [6h Tc Ks]
+*** TURN *** [6h Tc Ks] [Qs]
+*** RIVER *** [6h Tc Ks Qs] [6d]
+*** SHOWDOWN ***
+89574754: shows [Jc Qc]
+d0bbab63: shows [Kd Qh]
+12e2ed83: shows [Js Ad]
+12e2ed83 collected 138,381 from pot
+d0bbab63 collected 228,080 from pot
+*** SUMMARY ***
+Total pot 366,461 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h Tc Ks Qs 6d]
+Seat 1: 89574754 showed [Jc Qc] and lost with two pair, Queens and Sixes
+Seat 2: 2690d408 folded on the River
+Seat 3: Hero (button) folded on the River
+Seat 4: 9e5bf68e (small blind) folded on the River
+Seat 5: e0c8341a (big blind) folded on the River
+Seat 6: 23b25fe0 folded on the River
+Seat 7: d0bbab63 showed [Kd Qh] and won (228,080) with two pair, Kings and Queens
+Seat 8: 12e2ed83 showed [Js Ad] and won (138,381) with a straight, Ten to Ace
+
+
+Poker Hand #TM6185772913: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/07 18:59:30
+Table '237' 8-max Seat #2 is the button
+Seat 1: 89574754 (419,968 in chips)
+Seat 2: 2690d408 (47,586 in chips)
+Seat 3: Hero (17,883 in chips)
+Seat 4: 9e5bf68e (364,042 in chips)
+Seat 5: e0c8341a (47,123 in chips)
+Seat 6: 23b25fe0 (219,535 in chips)
+Seat 7: d0bbab63 (157,267 in chips)
+Seat 8: 12e2ed83 (43,227 in chips)
+89574754: posts the ante 600
+2690d408: posts the ante 600
+Hero: posts the ante 600
+9e5bf68e: posts the ante 600
+e0c8341a: posts the ante 600
+23b25fe0: posts the ante 600
+d0bbab63: posts the ante 600
+12e2ed83: posts the ante 600
+Hero: posts small blind 2,500
+9e5bf68e: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [3c 7s]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 12e2ed83 
+e0c8341a: folds
+23b25fe0: folds
+d0bbab63: folds
+12e2ed83: folds
+89574754: calls 5,000
+2690d408: folds
+Hero: folds
+9e5bf68e: checks
+*** FLOP *** [9c 7c Ah]
+9e5bf68e: checks
+89574754: checks
+*** TURN *** [9c 7c Ah] [2s]
+9e5bf68e: checks
+89574754: checks
+*** RIVER *** [9c 7c Ah 2s] [Kh]
+9e5bf68e: checks
+89574754: checks
+*** SHOWDOWN ***
+89574754: shows [Ac 8h]
+9e5bf68e: shows [7h 5c]
+89574754 collected 17,300 from pot
+*** SUMMARY ***
+Total pot 17,300 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c 7c Ah 2s Kh]
+Seat 1: 89574754 showed [Ac 8h] and won (17,300) with a pair of Aces
+Seat 2: 2690d408 (button) folded on the River
+Seat 3: Hero (small blind) folded on the River
+Seat 4: 9e5bf68e (big blind) showed [7h 5c] and lost with a pair of Sevens
+Seat 5: e0c8341a folded on the River
+Seat 6: 23b25fe0 folded on the River
+Seat 7: d0bbab63 folded on the River
+Seat 8: 12e2ed83 folded on the River
+
+
+Poker Hand #TM6185772897: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/07 18:58:20
+Table '237' 8-max Seat #1 is the button
+Seat 1: 89574754 (420,568 in chips)
+Seat 2: 2690d408 (107,733 in chips)
+Seat 3: Hero (78,030 in chips)
+Seat 4: 9e5bf68e (121,654 in chips)
+Seat 5: e0c8341a (47,723 in chips)
+Seat 6: 23b25fe0 (279,682 in chips)
+Seat 7: d0bbab63 (157,867 in chips)
+Seat 8: 5d1d3fd6 (60,147 in chips)
+89574754: posts the ante 600
+2690d408: posts the ante 600
+Hero: posts the ante 600
+9e5bf68e: posts the ante 600
+e0c8341a: posts the ante 600
+23b25fe0: posts the ante 600
+d0bbab63: posts the ante 600
+5d1d3fd6: posts the ante 600
+2690d408: posts small blind 2,500
+Hero: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [As 8d]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 5d1d3fd6 
+9e5bf68e: calls 5,000
+e0c8341a: folds
+23b25fe0: calls 5,000
+d0bbab63: folds
+5d1d3fd6: raises 54,547 to 59,547 and is all-in
+89574754: folds
+2690d408: calls 57,047
+Hero: calls 54,547
+9e5bf68e: calls 54,547
+23b25fe0: calls 54,547
+*** FLOP *** [Qc 5s 3h]
+2690d408: checks
+Hero: checks
+9e5bf68e: checks
+23b25fe0: checks
+*** TURN *** [Qc 5s 3h] [4d]
+2690d408: checks
+Hero: checks
+9e5bf68e: checks
+23b25fe0: checks
+*** RIVER *** [Qc 5s 3h 4d] [Td]
+2690d408: checks
+Hero: checks
+9e5bf68e: checks
+23b25fe0: checks
+*** SHOWDOWN ***
+2690d408: shows [6h 6d]
+Hero: shows [As 8d]
+9e5bf68e: shows [Qh 8c]
+23b25fe0: shows [Ks Th]
+5d1d3fd6: shows [Ts 9d]
+9e5bf68e collected 302,535 from pot
+*** SUMMARY ***
+Total pot 302,535 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc 5s 3h 4d Td]
+Seat 1: 89574754 (button) folded on the River
+Seat 2: 2690d408 (small blind) showed [6h 6d] and lost with a pair of Sixes
+Seat 3: Hero (big blind) showed [As 8d] and lost with high card Ace
+Seat 4: 9e5bf68e showed [Qh 8c] and won (302,535) with a pair of Queens
+Seat 5: e0c8341a folded on the River
+Seat 6: 23b25fe0 showed [Ks Th] and lost with a pair of Tens
+Seat 7: d0bbab63 folded on the River
+Seat 8: 5d1d3fd6 showed [Ts 9d] and lost with a pair of Tens
+
+
+Poker Hand #TM6185772862: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/07 18:57:29
+Table '237' 8-max Seat #8 is the button
+Seat 1: 89574754 (401,368 in chips)
+Seat 2: 2690d408 (113,333 in chips)
+Seat 3: Hero (83,630 in chips)
+Seat 4: 9e5bf68e (122,254 in chips)
+Seat 5: e0c8341a (48,323 in chips)
+Seat 6: 23b25fe0 (285,282 in chips)
+Seat 7: d0bbab63 (158,467 in chips)
+Seat 8: 5d1d3fd6 (60,747 in chips)
+89574754: posts the ante 600
+2690d408: posts the ante 600
+Hero: posts the ante 600
+9e5bf68e: posts the ante 600
+e0c8341a: posts the ante 600
+23b25fe0: posts the ante 600
+d0bbab63: posts the ante 600
+5d1d3fd6: posts the ante 600
+89574754: posts small blind 2,500
+2690d408: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [Kd 8d]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 5d1d3fd6 
+Hero: calls 5,000
+9e5bf68e: folds
+e0c8341a: folds
+23b25fe0: calls 5,000
+d0bbab63: folds
+5d1d3fd6: folds
+89574754: calls 2,500
+2690d408: checks
+*** FLOP *** [4h Tc 8h]
+89574754: checks
+2690d408: checks
+Hero: checks
+23b25fe0: checks
+*** TURN *** [4h Tc 8h] [2c]
+89574754: checks
+2690d408: checks
+Hero: checks
+23b25fe0: checks
+*** RIVER *** [4h Tc 8h 2c] [As]
+89574754: checks
+2690d408: checks
+Hero: checks
+23b25fe0: checks
+*** SHOWDOWN ***
+89574754: shows [Ad 7s]
+2690d408: shows [9c Jc]
+Hero: shows [Kd 8d]
+23b25fe0: shows [Qd 5d]
+89574754 collected 24,800 from pot
+*** SUMMARY ***
+Total pot 24,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4h Tc 8h 2c As]
+Seat 1: 89574754 (small blind) showed [Ad 7s] and won (24,800) with a pair of Aces
+Seat 2: 2690d408 (big blind) showed [9c Jc] and lost with high card Ace
+Seat 3: Hero showed [Kd 8d] and lost with a pair of Eights
+Seat 4: 9e5bf68e folded on the River
+Seat 5: e0c8341a folded on the River
+Seat 6: 23b25fe0 showed [Qd 5d] and lost with high card Ace
+Seat 7: d0bbab63 folded on the River
+Seat 8: 5d1d3fd6 (button) folded on the River
+
+
+Poker Hand #TM6185772846: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/07 18:56:40
+Table '237' 8-max Seat #7 is the button
+Seat 1: 89574754 (406,968 in chips)
+Seat 2: 2690d408 (113,933 in chips)
+Seat 3: Hero (84,230 in chips)
+Seat 4: 9e5bf68e (98,054 in chips)
+Seat 5: e0c8341a (48,923 in chips)
+Seat 6: 23b25fe0 (290,882 in chips)
+Seat 7: d0bbab63 (164,067 in chips)
+Seat 8: 5d1d3fd6 (66,347 in chips)
+89574754: posts the ante 600
+2690d408: posts the ante 600
+Hero: posts the ante 600
+9e5bf68e: posts the ante 600
+e0c8341a: posts the ante 600
+23b25fe0: posts the ante 600
+d0bbab63: posts the ante 600
+5d1d3fd6: posts the ante 600
+5d1d3fd6: posts small blind 2,500
+89574754: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [3c Jd]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 9e5bf68e 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 5d1d3fd6 
+2690d408: folds
+Hero: folds
+9e5bf68e: calls 5,000
+e0c8341a: folds
+23b25fe0: calls 5,000
+d0bbab63: calls 5,000
+5d1d3fd6: calls 2,500
+89574754: checks
+*** FLOP *** [9d 3h 3s]
+5d1d3fd6: checks
+89574754: checks
+9e5bf68e: checks
+23b25fe0: checks
+d0bbab63: checks
+*** TURN *** [9d 3h 3s] [Tc]
+5d1d3fd6: checks
+89574754: checks
+9e5bf68e: checks
+23b25fe0: checks
+d0bbab63: checks
+*** RIVER *** [9d 3h 3s Tc] [2d]
+5d1d3fd6: checks
+89574754: checks
+9e5bf68e: checks
+23b25fe0: checks
+d0bbab63: checks
+*** SHOWDOWN ***
+89574754: shows [Kc 7s]
+9e5bf68e: shows [4s Ac]
+23b25fe0: shows [Ks 5c]
+d0bbab63: shows [Js 6c]
+5d1d3fd6: shows [Qs 5h]
+9e5bf68e collected 29,800 from pot
+*** SUMMARY ***
+Total pot 29,800 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 3h 3s Tc 2d]
+Seat 1: 89574754 (big blind) showed [Kc 7s] and lost with a pair of Treys
+Seat 2: 2690d408 folded on the River
+Seat 3: Hero folded on the River
+Seat 4: 9e5bf68e showed [4s Ac] and won (29,800) with a pair of Treys
+Seat 5: e0c8341a folded on the River
+Seat 6: 23b25fe0 showed [Ks 5c] and lost with a pair of Treys
+Seat 7: d0bbab63 (button) showed [Js 6c] and lost with a pair of Treys
+Seat 8: 5d1d3fd6 (small blind) showed [Qs 5h] and lost with a pair of Treys
+
+
+Poker Hand #TM6185772823: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level10(2,500/5,000(600)) - 2026/07/07 18:55:39
+Table '237' 8-max Seat #6 is the button
+Seat 1: 89574754 (407,568 in chips)
+Seat 2: 2690d408 (114,533 in chips)
+Seat 3: Hero (162,675 in chips)
+Seat 4: 580e6804 (48,147 in chips)
+Seat 5: e0c8341a (49,523 in chips)
+Seat 6: 23b25fe0 (78,445 in chips)
+Seat 7: d0bbab63 (242,512 in chips)
+Seat 8: 5d1d3fd6 (71,947 in chips)
+89574754: posts the ante 600
+2690d408: posts the ante 600
+Hero: posts the ante 600
+580e6804: posts the ante 600
+e0c8341a: posts the ante 600
+23b25fe0: posts the ante 600
+d0bbab63: posts the ante 600
+5d1d3fd6: posts the ante 600
+d0bbab63: posts small blind 2,500
+5d1d3fd6: posts big blind 5,000
+*** HOLE CARDS ***
+Dealt to Hero [9h 7h]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 580e6804 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 5d1d3fd6 
+89574754: folds
+2690d408: folds
+Hero: calls 5,000
+580e6804: raises 42,547 to 47,547 and is all-in
+e0c8341a: folds
+23b25fe0: calls 47,547
+d0bbab63: calls 45,047
+5d1d3fd6: folds
+Hero: calls 42,547
+*** FLOP *** [Kd 5s Qs]
+d0bbab63: checks
+Hero: checks
+23b25fe0: checks
+*** TURN *** [Kd 5s Qs] [Tc]
+d0bbab63: checks
+Hero: checks
+23b25fe0: checks
+*** RIVER *** [Kd 5s Qs Tc] [Ts]
+d0bbab63: checks
+Hero: checks
+23b25fe0: bets 30,298 and is all-in
+d0bbab63: calls 30,298
+Hero: calls 30,298
+*** SHOWDOWN ***
+Hero: shows [9h 7h]
+580e6804: shows [Td Ad]
+23b25fe0: shows [Jh As]
+d0bbab63: shows [Ah 3h]
+23b25fe0 collected 199,988 from pot
+23b25fe0 collected 90,894 from pot
+*** SUMMARY ***
+Total pot 290,882 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kd 5s Qs Tc Ts]
+Seat 1: 89574754 folded on the River
+Seat 2: 2690d408 folded on the River
+Seat 3: Hero showed [9h 7h] and lost with a pair of Tens
+Seat 4: 580e6804 showed [Td Ad] and lost with three of a kind, Tens
+Seat 5: e0c8341a folded on the River
+Seat 6: 23b25fe0 (button) showed [Jh As] and won (290,882) with a straight, Ten to Ace
+Seat 7: d0bbab63 (small blind) showed [Ah 3h] and lost with a pair of Tens
+Seat 8: 5d1d3fd6 (big blind) folded on the River
+
+
+Poker Hand #TM6185772787: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level9(1,600/3,200(400)) - 2026/07/07 18:54:33
+Table '237' 8-max Seat #5 is the button
+Seat 1: 89574754 (383,968 in chips)
+Seat 2: 2690d408 (118,133 in chips)
+Seat 3: Hero (166,275 in chips)
+Seat 4: 580e6804 (51,747 in chips)
+Seat 5: e0c8341a (53,123 in chips)
+Seat 6: 23b25fe0 (80,445 in chips)
+Seat 7: d0bbab63 (246,112 in chips)
+Seat 8: 5d1d3fd6 (75,547 in chips)
+89574754: posts the ante 400
+2690d408: posts the ante 400
+Hero: posts the ante 400
+580e6804: posts the ante 400
+e0c8341a: posts the ante 400
+23b25fe0: posts the ante 400
+d0bbab63: posts the ante 400
+5d1d3fd6: posts the ante 400
+23b25fe0: posts small blind 1,600
+d0bbab63: posts big blind 3,200
+*** HOLE CARDS ***
+Dealt to Hero [9h Jc]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 580e6804 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 5d1d3fd6 
+5d1d3fd6: calls 3,200
+89574754: calls 3,200
+2690d408: calls 3,200
+Hero: calls 3,200
+580e6804: calls 3,200
+e0c8341a: calls 3,200
+23b25fe0: folds
+d0bbab63: checks
+*** FLOP *** [Ac 4s 8c]
+d0bbab63: checks
+5d1d3fd6: checks
+89574754: checks
+2690d408: checks
+Hero: checks
+580e6804: checks
+e0c8341a: checks
+*** TURN *** [Ac 4s 8c] [3d]
+d0bbab63: checks
+5d1d3fd6: checks
+89574754: checks
+2690d408: checks
+Hero: checks
+580e6804: checks
+e0c8341a: checks
+*** RIVER *** [Ac 4s 8c 3d] [7s]
+d0bbab63: checks
+5d1d3fd6: checks
+89574754: checks
+2690d408: checks
+Hero: checks
+580e6804: checks
+e0c8341a: checks
+*** SHOWDOWN ***
+89574754: shows [Tc Ah]
+2690d408: shows [9d Th]
+Hero: shows [9h Jc]
+580e6804: shows [9s Jd]
+e0c8341a: shows [6d 7d]
+d0bbab63: shows [Qs 4d]
+5d1d3fd6: shows [7h Qd]
+89574754 collected 27,200 from pot
+*** SUMMARY ***
+Total pot 27,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 4s 8c 3d 7s]
+Seat 1: 89574754 showed [Tc Ah] and won (27,200) with a pair of Aces
+Seat 2: 2690d408 showed [9d Th] and lost with high card Ace
+Seat 3: Hero showed [9h Jc] and lost with high card Ace
+Seat 4: 580e6804 showed [9s Jd] and lost with high card Ace
+Seat 5: e0c8341a (button) showed [6d 7d] and lost with a pair of Sevens
+Seat 6: 23b25fe0 (small blind) folded on the River
+Seat 7: d0bbab63 (big blind) showed [Qs 4d] and lost with a pair of Fours
+Seat 8: 5d1d3fd6 showed [7h Qd] and lost with a pair of Sevens
+
+
+Poker Hand #TM6185772766: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level9(1,600/3,200(400)) - 2026/07/07 18:53:25
+Table '237' 8-max Seat #4 is the button
+Seat 1: 89574754 (384,368 in chips)
+Seat 2: 2690d408 (121,733 in chips)
+Seat 3: Hero (169,875 in chips)
+Seat 4: 580e6804 (55,347 in chips)
+Seat 5: e0c8341a (56,723 in chips)
+Seat 6: 23b25fe0 (58,445 in chips)
+Seat 7: d0bbab63 (249,712 in chips)
+Seat 8: 5d1d3fd6 (79,147 in chips)
+89574754: posts the ante 400
+2690d408: posts the ante 400
+Hero: posts the ante 400
+580e6804: posts the ante 400
+e0c8341a: posts the ante 400
+23b25fe0: posts the ante 400
+d0bbab63: posts the ante 400
+5d1d3fd6: posts the ante 400
+e0c8341a: posts small blind 1,600
+23b25fe0: posts big blind 3,200
+*** HOLE CARDS ***
+Dealt to Hero [6c Ad]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 580e6804 
+Dealt to e0c8341a 
+Dealt to 23b25fe0 
+Dealt to d0bbab63 
+Dealt to 5d1d3fd6 
+d0bbab63: calls 3,200
+5d1d3fd6: calls 3,200
+89574754: folds
+2690d408: calls 3,200
+Hero: calls 3,200
+580e6804: calls 3,200
+e0c8341a: calls 1,600
+23b25fe0: checks
+*** FLOP *** [2h 2d Jd]
+e0c8341a: checks
+23b25fe0: checks
+d0bbab63: checks
+5d1d3fd6: checks
+2690d408: checks
+Hero: checks
+580e6804: checks
+*** TURN *** [2h 2d Jd] [5c]
+e0c8341a: checks
+23b25fe0: checks
+d0bbab63: checks
+5d1d3fd6: checks
+2690d408: checks
+Hero: checks
+580e6804: checks
+*** RIVER *** [2h 2d Jd 5c] [6d]
+e0c8341a: checks
+23b25fe0: checks
+d0bbab63: checks
+5d1d3fd6: checks
+2690d408: checks
+Hero: checks
+580e6804: checks
+*** SHOWDOWN ***
+2690d408: shows [Qs 6s]
+Hero: shows [6c Ad]
+580e6804: shows [8s 7c]
+e0c8341a: shows [9h 4s]
+23b25fe0: shows [4h 2c]
+d0bbab63: shows [5h Ac]
+5d1d3fd6: shows [Qh 9c]
+23b25fe0 collected 25,600 from pot
+*** SUMMARY ***
+Total pot 25,600 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 2d Jd 5c 6d]
+Seat 1: 89574754 folded on the River
+Seat 2: 2690d408 showed [Qs 6s] and lost with two pair, Sixes and Deuces
+Seat 3: Hero showed [6c Ad] and lost with two pair, Sixes and Deuces
+Seat 4: 580e6804 (button) showed [8s 7c] and lost with a pair of Deuces
+Seat 5: e0c8341a (small blind) showed [9h 4s] and lost with a pair of Deuces
+Seat 6: 23b25fe0 (big blind) showed [4h 2c] and won (25,600) with three of a kind, Deuces
+Seat 7: d0bbab63 showed [5h Ac] and lost with two pair, Fives and Deuces
+Seat 8: 5d1d3fd6 showed [Qh 9c] and lost with a pair of Deuces
+
+
+Poker Hand #TM6185772762: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level9(1,600/3,200(400)) - 2026/07/07 18:52:05
+Table '237' 8-max Seat #3 is the button
+Seat 1: 89574754 (282,803 in chips)
+Seat 2: 2690d408 (157,349 in chips)
+Seat 3: Hero (205,491 in chips)
+Seat 4: 128604a9 (59,422 in chips)
+Seat 5: d9062342 (132,210 in chips)
+Seat 6: a5055117 (52,397 in chips)
+Seat 7: d0bbab63 (35,616 in chips)
+Seat 8: 5d1d3fd6 (79,547 in chips)
+89574754: posts the ante 400
+2690d408: posts the ante 400
+Hero: posts the ante 400
+128604a9: posts the ante 400
+d9062342: posts the ante 400
+a5055117: posts the ante 400
+d0bbab63: posts the ante 400
+5d1d3fd6: posts the ante 400
+128604a9: posts small blind 1,600
+d9062342: posts big blind 3,200
+*** HOLE CARDS ***
+Dealt to Hero [Jh 7c]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 128604a9 
+Dealt to d9062342 
+Dealt to a5055117 
+Dealt to d0bbab63 
+Dealt to 5d1d3fd6 
+a5055117: calls 3,200
+d0bbab63: raises 32,016 to 35,216 and is all-in
+5d1d3fd6: folds
+89574754: calls 35,216
+2690d408: calls 35,216
+Hero: calls 35,216
+128604a9: calls 33,616
+d9062342: calls 32,016
+a5055117: raises 16,781 to 51,997 and is all-in
+89574754: raises 159,895 to 211,892
+2690d408: folds
+Hero: folds
+128604a9: calls 23,806 and is all-in
+d9062342: calls 96,594 and is all-in
+*** FLOP *** [3d 6c Qs]
+*** TURN *** [3d 6c Qs] [Tc]
+*** RIVER *** [3d 6c Qs Tc] [8s]
+*** SHOWDOWN ***
+89574754: shows [Ts Th]
+128604a9: shows [Kc 8d]
+d9062342: shows [Ks 7s]
+a5055117: shows [Ah As]
+d0bbab63: shows [Jd 9c]
+d0bbab63 collected 249,712 from pot
+89574754 collected 67,124 from pot
+89574754 collected 21,075 from pot
+89574754 collected 145,576 from pot
+89574754 collected 80,082 from pot
+*** SUMMARY ***
+Total pot 563,569 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3d 6c Qs Tc 8s]
+Seat 1: 89574754 showed [Ts Th] and won (313,857) with three of a kind, Tens
+Seat 2: 2690d408 folded on the River
+Seat 3: Hero (button) folded on the River
+Seat 4: 128604a9 (small blind) showed [Kc 8d] and lost with a pair of Eights
+Seat 5: d9062342 (big blind) showed [Ks 7s] and lost with high card King
+Seat 6: a5055117 showed [Ah As] and lost with a pair of Aces
+Seat 7: d0bbab63 showed [Jd 9c] and won (249,712) with a straight, Eight to Queen
+Seat 8: 5d1d3fd6 folded on the River
+
+
+Poker Hand #TM6185772724: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level9(1,600/3,200(400)) - 2026/07/07 18:51:04
+Table '237' 8-max Seat #2 is the button
+Seat 1: 89574754 (286,403 in chips)
+Seat 2: 2690d408 (138,549 in chips)
+Seat 3: Hero (209,091 in chips)
+Seat 4: 128604a9 (63,022 in chips)
+Seat 5: d9062342 (132,610 in chips)
+Seat 6: a5055117 (55,997 in chips)
+Seat 7: d0bbab63 (36,016 in chips)
+Seat 8: 5d1d3fd6 (83,147 in chips)
+89574754: posts the ante 400
+2690d408: posts the ante 400
+Hero: posts the ante 400
+128604a9: posts the ante 400
+d9062342: posts the ante 400
+a5055117: posts the ante 400
+d0bbab63: posts the ante 400
+5d1d3fd6: posts the ante 400
+Hero: posts small blind 1,600
+128604a9: posts big blind 3,200
+*** HOLE CARDS ***
+Dealt to Hero [4s Kc]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 128604a9 
+Dealt to d9062342 
+Dealt to a5055117 
+Dealt to d0bbab63 
+Dealt to 5d1d3fd6 
+d9062342: folds
+a5055117: calls 3,200
+d0bbab63: folds
+5d1d3fd6: calls 3,200
+89574754: calls 3,200
+2690d408: calls 3,200
+Hero: calls 1,600
+128604a9: checks
+*** FLOP *** [4c Qd Qc]
+Hero: checks
+128604a9: checks
+a5055117: checks
+5d1d3fd6: checks
+89574754: checks
+2690d408: checks
+*** TURN *** [4c Qd Qc] [5d]
+Hero: checks
+128604a9: checks
+a5055117: checks
+5d1d3fd6: checks
+89574754: checks
+2690d408: checks
+*** RIVER *** [4c Qd Qc 5d] [3s]
+Hero: checks
+128604a9: checks
+a5055117: checks
+5d1d3fd6: checks
+89574754: checks
+2690d408: checks
+*** SHOWDOWN ***
+89574754: shows [6c Kh]
+2690d408: shows [5h Jd]
+Hero: shows [4s Kc]
+128604a9: shows [4d Js]
+a5055117: shows [7c Jc]
+5d1d3fd6: shows [Ks 6s]
+2690d408 collected 22,400 from pot
+*** SUMMARY ***
+Total pot 22,400 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c Qd Qc 5d 3s]
+Seat 1: 89574754 showed [6c Kh] and lost with a pair of Queens
+Seat 2: 2690d408 (button) showed [5h Jd] and won (22,400) with two pair, Queens and Fives
+Seat 3: Hero (small blind) showed [4s Kc] and lost with two pair, Queens and Fours
+Seat 4: 128604a9 (big blind) showed [4d Js] and lost with two pair, Queens and Fours
+Seat 5: d9062342 folded on the River
+Seat 6: a5055117 showed [7c Jc] and lost with a pair of Queens
+Seat 7: d0bbab63 folded on the River
+Seat 8: 5d1d3fd6 showed [Ks 6s] and lost with a pair of Queens
+
+
+Poker Hand #TM6185772697: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level9(1,600/3,200(400)) - 2026/07/07 18:49:50
+Table '237' 8-max Seat #2 is the button
+Seat 1: 89574754 (308,126 in chips)
+Seat 2: 2690d408 (138,949 in chips)
+Seat 3: Hero (211,091 in chips)
+Seat 4: 128604a9 (84,745 in chips)
+Seat 5: d9062342 (64,641 in chips)
+Seat 6: a5055117 (56,397 in chips)
+Seat 8: 4f776b42 (21,723 in chips)
+89574754: posts the ante 400
+2690d408: posts the ante 400
+Hero: posts the ante 400
+128604a9: posts the ante 400
+d9062342: posts the ante 400
+a5055117: posts the ante 400
+4f776b42: posts the ante 400
+Hero: posts small blind 1,600
+128604a9: posts big blind 3,200
+*** HOLE CARDS ***
+Dealt to Hero [2c 4h]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 128604a9 
+Dealt to d9062342 
+Dealt to a5055117 
+Dealt to 4f776b42 
+d9062342: calls 3,200
+a5055117: folds
+4f776b42: raises 18,123 to 21,323 and is all-in
+89574754: calls 21,323
+2690d408: folds
+Hero: folds
+128604a9: calls 18,123
+d9062342: calls 18,123
+*** FLOP *** [Th 8c 7c]
+128604a9: checks
+d9062342: checks
+89574754: checks
+*** TURN *** [Th 8c 7c] [2d]
+128604a9: checks
+d9062342: checks
+89574754: checks
+*** RIVER *** [Th 8c 7c 2d] [Jh]
+128604a9: checks
+d9062342: checks
+89574754: checks
+*** SHOWDOWN ***
+89574754: shows [7d Qc]
+128604a9: shows [Ts Kh]
+d9062342: shows [Qs Jd]
+4f776b42: shows [Ac 5c]
+d9062342 collected 89,692 from pot
+*** SUMMARY ***
+Total pot 89,692 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Th 8c 7c 2d Jh]
+Seat 1: 89574754 showed [7d Qc] and lost with a pair of Sevens
+Seat 2: 2690d408 (button) folded on the River
+Seat 3: Hero (small blind) folded on the River
+Seat 4: 128604a9 (big blind) showed [Ts Kh] and lost with a pair of Tens
+Seat 5: d9062342 showed [Qs Jd] and won (89,692) with a pair of Jacks
+Seat 6: a5055117 folded on the River
+Seat 8: 4f776b42 showed [Ac 5c] and lost with high card Ace
+
+
+Poker Hand #TM6185772668: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level9(1,600/3,200(400)) - 2026/07/07 18:49:04
+Table '237' 8-max Seat #1 is the button
+Seat 1: 89574754 (308,526 in chips)
+Seat 2: 2690d408 (46,144 in chips)
+Seat 3: Hero (214,691 in chips)
+Seat 5: 7fdbda3b (18,011 in chips)
+Seat 6: 8e4ee596 (29,444 in chips)
+Seat 7: 5b8be88c (40,950 in chips)
+Seat 8: 4f776b42 (22,123 in chips)
+89574754: posts the ante 400
+2690d408: posts the ante 400
+Hero: posts the ante 400
+7fdbda3b: posts the ante 400
+8e4ee596: posts the ante 400
+5b8be88c: posts the ante 400
+4f776b42: posts the ante 400
+2690d408: posts small blind 1,600
+Hero: posts big blind 3,200
+*** HOLE CARDS ***
+Dealt to Hero [2h Qd]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 7fdbda3b 
+Dealt to 8e4ee596 
+Dealt to 5b8be88c 
+Dealt to 4f776b42 
+7fdbda3b: raises 14,411 to 17,611 and is all-in
+8e4ee596: raises 11,433 to 29,044 and is all-in
+5b8be88c: raises 11,506 to 40,550 and is all-in
+4f776b42: folds
+89574754: folds
+2690d408: calls 38,950
+Hero: folds
+*** FLOP *** [8h 5d Kh]
+*** TURN *** [8h 5d Kh] [5c]
+*** RIVER *** [8h 5d Kh 5c] [4s]
+*** SHOWDOWN ***
+2690d408: shows [4h Ks]
+7fdbda3b: shows [8d Jd]
+8e4ee596: shows [Qs Qc]
+5b8be88c: shows [9h 9s]
+2690d408 collected 76,444 from pot
+2690d408 collected 34,299 from pot
+2690d408 collected 23,012 from pot
+*** SUMMARY ***
+Total pot 133,755 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8h 5d Kh 5c 4s]
+Seat 1: 89574754 (button) folded on the River
+Seat 2: 2690d408 (small blind) showed [4h Ks] and won (133,755) with two pair, Kings and Fives
+Seat 3: Hero (big blind) folded on the River
+Seat 5: 7fdbda3b showed [8d Jd] and lost with two pair, Eights and Fives
+Seat 6: 8e4ee596 showed [Qs Qc] and lost with two pair, Queens and Fives
+Seat 7: 5b8be88c showed [9h 9s] and lost with two pair, Nines and Fives
+Seat 8: 4f776b42 folded on the River
+
+
+Poker Hand #TM6185772651: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level9(1,600/3,200(400)) - 2026/07/07 18:47:48
+Table '237' 8-max Seat #7 is the button
+Seat 1: 89574754 (58,481 in chips)
+Seat 2: 2690d408 (83,045 in chips)
+Seat 3: Hero (273,172 in chips)
+Seat 4: 050382ad (36,901 in chips)
+Seat 5: 7fdbda3b (76,492 in chips)
+Seat 6: 8e4ee596 (29,844 in chips)
+Seat 7: 5b8be88c (41,350 in chips)
+Seat 8: 4f776b42 (80,604 in chips)
+89574754: posts the ante 400
+2690d408: posts the ante 400
+Hero: posts the ante 400
+050382ad: posts the ante 400
+7fdbda3b: posts the ante 400
+8e4ee596: posts the ante 400
+5b8be88c: posts the ante 400
+4f776b42: posts the ante 400
+4f776b42: posts small blind 1,600
+89574754: posts big blind 3,200
+*** HOLE CARDS ***
+Dealt to Hero [Ts 7c]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 050382ad 
+Dealt to 7fdbda3b 
+Dealt to 8e4ee596 
+Dealt to 5b8be88c 
+Dealt to 4f776b42 
+2690d408: calls 3,200
+Hero: calls 3,200
+050382ad: raises 33,301 to 36,501 and is all-in
+7fdbda3b: calls 36,501
+8e4ee596: folds
+5b8be88c: folds
+4f776b42: calls 34,901
+89574754: calls 33,301
+2690d408: calls 33,301
+Hero: calls 33,301
+*** FLOP *** [Jh Tc 6h]
+4f776b42: checks
+89574754: checks
+2690d408: checks
+Hero: checks
+7fdbda3b: checks
+*** TURN *** [Jh Tc 6h] [5h]
+4f776b42: checks
+89574754: bets 21,580 and is all-in
+2690d408: folds
+Hero: calls 21,580
+7fdbda3b: calls 21,580
+4f776b42: calls 21,580
+*** RIVER *** [Jh Tc 6h 5h] [3c]
+4f776b42: checks
+Hero: checks
+7fdbda3b: checks
+*** SHOWDOWN ***
+89574754: shows [4h Ah]
+Hero: shows [Ts 7c]
+050382ad: shows [7h Jc]
+7fdbda3b: shows [Qc Jd]
+4f776b42: shows [5c As]
+89574754 collected 222,206 from pot
+89574754 collected 86,320 from pot
+*** SUMMARY ***
+Total pot 308,526 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh Tc 6h 5h 3c]
+Seat 1: 89574754 (big blind) showed [4h Ah] and won (308,526) with a flush, Ace high
+Seat 2: 2690d408 folded on the River
+Seat 3: Hero showed [Ts 7c] and lost with a pair of Tens
+Seat 4: 050382ad showed [7h Jc] and lost with a pair of Jacks
+Seat 5: 7fdbda3b showed [Qc Jd] and lost with a pair of Jacks
+Seat 6: 8e4ee596 folded on the River
+Seat 7: 5b8be88c (button) folded on the River
+Seat 8: 4f776b42 (small blind) showed [5c As] and lost with a pair of Fives
+
+
+Poker Hand #TM6185772630: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level9(1,600/3,200(400)) - 2026/07/07 18:46:20
+Table '237' 8-max Seat #6 is the button
+Seat 1: 89574754 (135,733 in chips)
+Seat 2: 2690d408 (83,445 in chips)
+Seat 3: Hero (77,252 in chips)
+Seat 4: 428ed48b (35,016 in chips)
+Seat 5: 7fdbda3b (76,892 in chips)
+Seat 6: 8e4ee596 (107,096 in chips)
+Seat 7: 5b8be88c (43,350 in chips)
+Seat 8: 4f776b42 (84,204 in chips)
+89574754: posts the ante 400
+2690d408: posts the ante 400
+Hero: posts the ante 400
+428ed48b: posts the ante 400
+7fdbda3b: posts the ante 400
+8e4ee596: posts the ante 400
+5b8be88c: posts the ante 400
+4f776b42: posts the ante 400
+5b8be88c: posts small blind 1,600
+4f776b42: posts big blind 3,200
+*** HOLE CARDS ***
+Dealt to Hero [Jh As]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 428ed48b 
+Dealt to 7fdbda3b 
+Dealt to 8e4ee596 
+Dealt to 5b8be88c 
+Dealt to 4f776b42 
+89574754: calls 3,200
+2690d408: folds
+Hero: calls 3,200
+428ed48b: raises 31,416 to 34,616 and is all-in
+7fdbda3b: folds
+8e4ee596: raises 29,409 to 64,025
+5b8be88c: folds
+4f776b42: folds
+89574754: calls 60,825
+Hero: raises 12,827 to 76,852 and is all-in
+8e4ee596: calls 12,827
+89574754: calls 12,827
+*** FLOP *** [Ah Qc 6d]
+89574754: checks
+8e4ee596: checks
+*** TURN *** [Ah Qc 6d] [8h]
+89574754: checks
+8e4ee596: checks
+*** RIVER *** [Ah Qc 6d 8h] [Ad]
+89574754: checks
+8e4ee596: checks
+*** SHOWDOWN ***
+89574754: shows [Tc 6c]
+Hero: shows [Jh As]
+428ed48b: shows [7h Jc]
+8e4ee596: shows [Kh Qs]
+Hero collected 146,464 from pot
+Hero collected 126,708 from pot
+*** SUMMARY ***
+Total pot 273,172 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah Qc 6d 8h Ad]
+Seat 1: 89574754 showed [Tc 6c] and lost with two pair, Aces and Sixes
+Seat 2: 2690d408 folded on the River
+Seat 3: Hero showed [Jh As] and won (273,172) with three of a kind, Aces
+Seat 4: 428ed48b showed [7h Jc] and lost with a pair of Aces
+Seat 5: 7fdbda3b folded on the River
+Seat 6: 8e4ee596 (button) showed [Kh Qs] and lost with two pair, Aces and Queens
+Seat 7: 5b8be88c (small blind) folded on the River
+Seat 8: 4f776b42 (big blind) folded on the River
+
+
+Poker Hand #TM6185772608: Tournament #302104558, Speed Racer Bounty $3.20 Hold'em No Limit - Level9(1,600/3,200(400)) - 2026/07/07 18:45:45
+Table '237' 8-max Seat #5 is the button
+Seat 1: 89574754 (77,893 in chips)
+Seat 2: 2690d408 (97,605 in chips)
+Seat 3: Hero (91,412 in chips)
+Seat 4: 428ed48b (35,416 in chips)
+Seat 5: 7fdbda3b (77,292 in chips)
+Seat 6: 8e4ee596 (121,256 in chips)
+Seat 7: 5b8be88c (57,510 in chips)
+Seat 8: 4f776b42 (84,604 in chips)
+89574754: posts the ante 400
+2690d408: posts the ante 400
+Hero: posts the ante 400
+428ed48b: posts the ante 400
+7fdbda3b: posts the ante 400
+8e4ee596: posts the ante 400
+5b8be88c: posts the ante 400
+4f776b42: posts the ante 400
+8e4ee596: posts small blind 1,600
+5b8be88c: posts big blind 3,200
+*** HOLE CARDS ***
+Dealt to Hero [As 9c]
+Dealt to 89574754 
+Dealt to 2690d408 
+Dealt to 428ed48b 
+Dealt to 7fdbda3b 
+Dealt to 8e4ee596 
+Dealt to 5b8be88c 
+Dealt to 4f776b42 
+4f776b42: folds
+89574754: calls 3,200
+2690d408: calls 3,200
+Hero: calls 3,200
+428ed48b: folds
+7fdbda3b: folds
+8e4ee596: raises 10,560 to 13,760
+5b8be88c: calls 10,560
+89574754: calls 10,560
+2690d408: calls 10,560
+Hero: calls 10,560
+*** FLOP *** [2d Kh 8h]
+8e4ee596: checks
+5b8be88c: checks
+89574754: checks
+2690d408: checks
+Hero: checks
+*** TURN *** [2d Kh 8h] [6s]
+8e4ee596: checks
+5b8be88c: checks
+89574754: checks
+2690d408: checks
+Hero: checks
+*** RIVER *** [2d Kh 8h 6s] [7c]
+8e4ee596: checks
+5b8be88c: checks
+89574754: bets 47,520
+2690d408: folds
+Hero: folds
+8e4ee596: folds
+5b8be88c: folds
+89574754 collected 119,520 from pot
+*** SUMMARY ***
+Total pot 119,520 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d Kh 8h 6s 7c]
+Seat 1: 89574754 collected (119,520)
+Seat 2: 2690d408 folded on the River
+Seat 3: Hero folded on the River
+Seat 4: 428ed48b folded on the River
+Seat 5: 7fdbda3b (button) folded on the River
+Seat 6: 8e4ee596 (small blind) folded on the River
+Seat 7: 5b8be88c (big blind) folded on the River
+Seat 8: 4f776b42 folded on the River

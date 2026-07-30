@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en" data-lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sample hand histories — RangeForge</title>
+<meta name="description" content="Sample GGPoker-format tournament hand histories for trying RangeForge's replayer and tournament library. Synthetic data, free to download.">
+<link rel="icon" href="../icon.png">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <div class="langbar">
+    <button type="button" data-lang="en" aria-pressed="true">EN</button>
+    <button type="button" data-lang="ru" aria-pressed="false">RU</button>
+  </div>
+
+  <h1 style="margin-top:32px" lang="en">Sample hand histories</h1>
+  <h1 style="margin-top:32px" lang="ru">Примеры историй раздач</h1>
+
+  <p class="updated" lang="en">RangeForge for macOS · 8 tournaments · 277 hands</p>
+  <p class="updated" lang="ru">RangeForge для macOS · 8 турниров · 277 раздач</p>
+
+  <div class="claim prose">
+    <p style="margin:0" lang="en"><strong>The same files ship inside the app.</strong> You do not
+    need to download anything to try RangeForge: the Replayer and the Tournament library each have
+    a button that loads this data from the app bundle. These copies exist for anyone who would
+    rather drop real files in, or test the import itself.</p>
+    <p style="margin:0" lang="ru"><strong>Эти же файлы входят в приложение.</strong> Чтобы
+    попробовать RangeForge, скачивать ничего не нужно: в «Реплеере» и «Базе турниров» есть кнопка,
+    которая загружает эти данные прямо из приложения. Копии здесь — для тех, кому удобнее
+    перетащить настоящие файлы или проверить сам импорт.</p>
+  </div>
+
+  <div class="prose">
+
+    <h2 lang="en">Download</h2>
+    <h2 lang="ru">Скачать</h2>
+
+    <p lang="en"><a href="RangeForge-sample-hands.zip"><strong>RangeForge-sample-hands.zip</strong></a>
+    — 78&nbsp;KB, 12 plain-text files. Unzip anywhere; nothing is installed.</p>
+    <p lang="ru"><a href="RangeForge-sample-hands.zip"><strong>RangeForge-sample-hands.zip</strong></a>
+    — 78&nbsp;КБ, 12 текстовых файлов. Распакуйте куда угодно — ничего не устанавливается.</p>
+
+    <h2 lang="en">How to use them</h2>
+    <h2 lang="ru">Как их использовать</h2>
+
+    <p lang="en"><strong>Replayer</strong> — open the Replayer module, click
+    “Open GG export…”, and pick any one of the eight <code>GG2026…&nbsp;.txt</code> files (or just
+    drag it onto the window). Step through hands with the transport bar or the ← → keys.</p>
+    <p lang="ru"><strong>Реплеер</strong> — откройте модуль «Реплеер», нажмите
+    «Открыть выгрузку GG…» и выберите любой из восьми файлов <code>GG2026…&nbsp;.txt</code> (или
+    просто перетащите его в окно). Листайте раздачи панелью управления или клавишами ← →.</p>
+
+    <p lang="en"><strong>Tournament library</strong> — open the Tournaments module and use
+    “Add folder” on the unzipped folder. All twelve files go in at once: the eight exports become
+    eight events, and the four <code>Result</code> files fill in the finishing place, the prize and
+    the buy-in.</p>
+    <p lang="ru"><strong>База турниров</strong> — откройте модуль «База турниров» и нажмите
+    «Добавить папку», указав распакованную папку. Все двенадцать файлов загрузятся сразу: восемь
+    выгрузок станут восемью турнирами, а четыре файла <code>Result</code> подставят занятое место,
+    приз и бай-ин.</p>
+
+    <p lang="en">The other four modules — Nash push/fold, ICM, the equity calculator and the
+    postflop solver — need no files at all. They open with a worked example already filled in.</p>
+    <p lang="ru">Остальным четырём модулям — Nash push/fold, ICM, калькулятору эквити и постфлоп-
+    солверу — файлы не нужны вовсе. Они открываются с уже заполненным примером.</p>
+
+    <h2 lang="en">What is in them</h2>
+    <h2 lang="ru">Что внутри</h2>
+
+    <p lang="en">Eight knockout and regular tournaments played out from the middle stages, chosen
+    to exercise what the two modules measure: 44 hero all-ins with cards still to come (which is
+    what all-in EV is computed over), multiway pots that build a side pot, and short-stack
+    shove-or-fold decisions for the GTO review to score. The hero folds too tight in those spots
+    on purpose, so the review has something to report.</p>
+    <p lang="ru">Восемь турниров — нокаут и обычные, — сыгранных со средних стадий и подобранных
+    так, чтобы задействовать всё, что считают эти два модуля: 44 олл-ина героя с ещё не открытыми
+    картами (по ним считается all-in EV), многосторонние банки с сайд-потом и решения «шов или
+    фолд» на коротком стеке для GTO-разбора. Герой в этих спотах намеренно сбрасывает слишком
+    часто — чтобы разбору было что показать.</p>
+
+    <div class="claim">
+      <p style="margin:0" lang="en"><strong>This is synthetic data.</strong> The play is generated,
+      the player IDs are made up and the tournaments never happened. It is nobody's real session
+      and contains no personal data.</p>
+      <p style="margin:0" lang="ru"><strong>Это синтетические данные.</strong> Игра сгенерирована,
+      идентификаторы игроков выдуманы, турниров не существовало. Это не чья-то реальная сессия и
+      персональных данных здесь нет.</p>
+    </div>
+
+    <h2 lang="en">Individual files</h2>
+    <h2 lang="ru">Отдельные файлы</h2>
+
+    <ul lang="en">
+      <li><a href="files/GG20260703-1930%20-%20Bounty%20Hunters%20Mini%20%245.40.txt">Bounty Hunters Mini $5.40</a> — 44 hands</li>
+      <li><a href="files/GG20260705-2015%20-%20Daily%20Turbo%20%242.50.txt">Daily Turbo $2.50</a> — 46 hands</li>
+      <li><a href="files/GG20260707-1845%20-%20Speed%20Racer%20Bounty%20%243.20.txt">Speed Racer Bounty $3.20</a> — 21 hands</li>
+      <li><a href="files/GG20260709-2100%20-%20Global%20MILLION%24%20Micro%20%241.50.txt">Global MILLION$ Micro $1.50</a> — 34 hands</li>
+      <li><a href="files/GG20260711-1730%20-%20Bounty%20Hunters%20%245.40.txt">Bounty Hunters $5.40</a> — 44 hands</li>
+      <li><a href="files/GG20260713-2000%20-%20Zodiac%20Bounty%20%2410.50%20%5BBig%20Bounties%5D.txt">Zodiac Bounty $10.50</a> — 18 hands</li>
+      <li><a href="files/GG20260715-1900%20-%20Daily%20%24100%2C000%20Flipout%20%248.40.txt">Daily $100,000 Flipout $8.40</a> — 40 hands</li>
+      <li><a href="files/GG20260717-2130%20-%20Sunday%20Rapid%20Knockout%20%2415.txt">Sunday Rapid Knockout $15</a> — 30 hands</li>
+      <li><a href="files/GG%20Tournament%20%23301884210%20Result.txt">Result — Bounty Hunters Mini $5.40</a></li>
+      <li><a href="files/GG%20Tournament%20%23302104558%20Result.txt">Result — Speed Racer Bounty $3.20</a></li>
+      <li><a href="files/GG%20Tournament%20%23302336019%20Result.txt">Result — Bounty Hunters $5.40</a></li>
+      <li><a href="files/GG%20Tournament%20%23302688174%20Result.txt">Result — Sunday Rapid Knockout $15</a></li>
+    </ul>
+    <ul lang="ru">
+      <li><a href="files/GG20260703-1930%20-%20Bounty%20Hunters%20Mini%20%245.40.txt">Bounty Hunters Mini $5.40</a> — 44 раздачи</li>
+      <li><a href="files/GG20260705-2015%20-%20Daily%20Turbo%20%242.50.txt">Daily Turbo $2.50</a> — 46 раздач</li>
+      <li><a href="files/GG20260707-1845%20-%20Speed%20Racer%20Bounty%20%243.20.txt">Speed Racer Bounty $3.20</a> — 21 раздача</li>
+      <li><a href="files/GG20260709-2100%20-%20Global%20MILLION%24%20Micro%20%241.50.txt">Global MILLION$ Micro $1.50</a> — 34 раздачи</li>
+      <li><a href="files/GG20260711-1730%20-%20Bounty%20Hunters%20%245.40.txt">Bounty Hunters $5.40</a> — 44 раздачи</li>
+      <li><a href="files/GG20260713-2000%20-%20Zodiac%20Bounty%20%2410.50%20%5BBig%20Bounties%5D.txt">Zodiac Bounty $10.50</a> — 18 раздач</li>
+      <li><a href="files/GG20260715-1900%20-%20Daily%20%24100%2C000%20Flipout%20%248.40.txt">Daily $100,000 Flipout $8.40</a> — 40 раздач</li>
+      <li><a href="files/GG20260717-2130%20-%20Sunday%20Rapid%20Knockout%20%2415.txt">Sunday Rapid Knockout $15</a> — 30 раздач</li>
+      <li><a href="files/GG%20Tournament%20%23301884210%20Result.txt">Результат — Bounty Hunters Mini $5.40</a></li>
+      <li><a href="files/GG%20Tournament%20%23302104558%20Result.txt">Результат — Speed Racer Bounty $3.20</a></li>
+      <li><a href="files/GG%20Tournament%20%23302336019%20Result.txt">Результат — Bounty Hunters $5.40</a></li>
+      <li><a href="files/GG%20Tournament%20%23302688174%20Result.txt">Результат — Sunday Rapid Knockout $15</a></li>
+    </ul>
+
+    <p lang="en">Questions: <a href="mailto:aldiyar.dev@gmail.com">aldiyar.dev@gmail.com</a></p>
+    <p lang="ru">Вопросы: <a href="mailto:aldiyar.dev@gmail.com">aldiyar.dev@gmail.com</a></p>
+
+  </div>
+
+  <footer>
+    <nav>
+      <a href="../index.html" lang="en">Home</a>
+      <a href="../index.html" lang="ru">Главная</a>
+      <a href="../index.html#support" lang="en">Support</a>
+      <a href="../index.html#support" lang="ru">Поддержка</a>
+      <a href="../privacy.html" lang="en">Privacy Policy</a>
+      <a href="../privacy.html" lang="ru">Политика конфиденциальности</a>
+      <a href="../terms.html" lang="en">Terms of Use</a>
+      <a href="../terms.html" lang="ru">Условия использования</a>
+    </nav>
+    <p class="disclaimer">© 2026 RangeForge</p>
+  </footer>
+
+</div>
+<script src="../lang.js"></script>
+</body>
+</html>

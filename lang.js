@@ -14,10 +14,15 @@
     try { localStorage.setItem(KEY, lang); } catch (e) { /* private browsing */ }
   }
 
+  // ?lang=ru opens straight in Russian and outranks the remembered choice. App Store Connect
+  // takes a Privacy Policy URL per localisation, so the ru-RU listing links here with the
+  // parameter and a Russian reader never lands on the English text first. apply() writes the
+  // choice through to localStorage, so the footer links carry the language to the other pages.
+  var linked = /[?&]lang=(ru|en)\b/.exec(location.search);
   var saved;
   try { saved = localStorage.getItem(KEY); } catch (e) { saved = null; }
   // Default to English: App Review reads it, and the Russian text is one click away.
-  apply(saved === 'ru' || saved === 'en' ? saved : 'en');
+  apply((linked && linked[1]) || (saved === 'ru' || saved === 'en' ? saved : 'en'));
 
   document.addEventListener('click', function (e) {
     var btn = e.target.closest ? e.target.closest('.langbar button') : null;
