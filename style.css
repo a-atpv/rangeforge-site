@@ -73,7 +73,7 @@ header.hero {
   flex-wrap: wrap;
 }
 
-header.hero img {
+header.hero > img {
   width: 104px;
   height: 104px;
   border-radius: 22px;
@@ -88,6 +88,56 @@ h1 {
 }
 
 .tagline { color: var(--subtext); font-size: 17px; margin: 0; }
+
+/* ---- store badge ----------------------------------------------------- */
+/* Apple's artwork exactly as supplied — no recolouring, no hover effect — and never shorter
+   than the 40 px the App Store marketing guidelines ask for. */
+.store {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  margin-top: 16px;
+}
+
+.store a { display: block; border-radius: 8px; }
+.store a:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+.store img { display: block; width: auto; height: 44px; }
+.store-meta { color: var(--subtext); font-size: 13.5px; }
+
+/* ---- screenshots ----------------------------------------------------- */
+/* Window captures keep macOS's transparent rounded corners, so the shadow is a drop-shadow,
+   which follows the alpha, rather than a box-shadow, which would draw a square halo. */
+.shots figure { margin: 0 0 28px; }
+.shots a { display: block; }
+
+.shots img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;   /* rounds the cropped replayer; the window captures carry their own */
+  filter: drop-shadow(0 12px 24px rgba(0, 0, 0, 0.45));
+}
+
+.shots figcaption {
+  margin-top: 12px;
+  max-width: var(--measure);
+  color: var(--subtext);
+  font-size: 14.5px;
+  line-height: 1.55;
+}
+
+.shots figcaption strong { color: var(--text); }
+
+/* Two captures of different shapes share a row. A flex share equal to each image's aspect
+   ratio (1880/1175 and 1880/1484) makes the two exactly the same height. */
+.shots-row { display: flex; gap: 18px; align-items: flex-start; }
+.shots-row figure { flex: 1.6 1 0; min-width: 0; }
+.shots-row figure + figure { flex: 1.2668 1 0; }
+
+@media (max-width: 640px) {
+  .shots-row { display: block; }
+}
 
 /* ---- typography ------------------------------------------------------ */
 h2 {
@@ -198,7 +248,9 @@ footer .disclaimer { max-width: var(--measure); line-height: 1.55; }
     --accent-2: #1f6fd0;
     --gold:     #9a6f04;
   }
+  /* The light-mode accent is a dark green; black text on it is barely legible. */
   .langbar button[aria-pressed="true"] { color: #fff; }
+  .shots img { filter: drop-shadow(0 10px 22px rgba(0, 0, 0, 0.22)); }
   .claim { background: linear-gradient(90deg, rgba(16, 133, 90, 0.08), transparent 65%); }
   .note  { background: rgba(154, 111, 4, 0.07); }
 }

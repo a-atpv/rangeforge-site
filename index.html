@@ -7,6 +7,7 @@
 <meta name="description" content="RangeForge is a fully offline poker theory workbench for macOS: Nash push/fold, ICM, equity, a postflop solver, a visual range builder and a hand replayer. No accounts, no internet, no data collection.">
 <link rel="icon" href="icon.png">
 <link rel="stylesheet" href="style.css">
+<script src="lang.js"></script>
 </head>
 <body>
 <div class="wrap">
@@ -22,6 +23,21 @@
       <h1>RangeForge</h1>
       <p class="tagline" lang="en">Poker GTO, ranges &amp; ICM — a study tool for macOS.</p>
       <p class="tagline" lang="ru">Покерное GTO, ренжи и ICM — инструмент для изучения теории на macOS.</p>
+
+      <!-- Apple's badge artwork, unmodified, as the App Store marketing guidelines require — one
+           per language. The link names no storefront, so Apple sends each visitor to their own. -->
+      <div class="store">
+        <a href="https://apps.apple.com/app/id6792839425" lang="en">
+          <img src="img/mac-app-store-badge-en.svg" width="172" height="44" loading="lazy"
+               alt="Download on the Mac App Store">
+        </a>
+        <a href="https://apps.apple.com/app/id6792839425" lang="ru">
+          <img src="img/mac-app-store-badge-ru.svg" width="172" height="44" loading="lazy"
+               alt="Загрузите в Mac App Store">
+        </a>
+        <span class="store-meta" lang="en">Free · macOS 14 or later</span>
+        <span class="store-meta" lang="ru">Бесплатно · macOS 14 или новее</span>
+      </div>
     </div>
   </header>
 
@@ -32,6 +48,77 @@
     <p lang="ru">RangeForge — быстрый нативный инструмент для изучения теории покера. Равновесные
     ренжи, ICM, эквити и постфлоп-солвер собраны в одном приложении для macOS. Все расчёты идут
     на вашем Mac: без аккаунтов, без интернета и без сбора данных.</p>
+  </div>
+
+  <h2 lang="en">Screenshots</h2>
+  <h2 lang="ru">Скриншоты</h2>
+
+  <!-- Each shot exists once per language, and the toggle hides the other with display:none.
+       loading="lazy" never fetches an image that has no box, so a visitor downloads one set, not
+       both. Files come from docs/AppStore/make_web_screenshots.py; each links to its 1880 px
+       version for a closer look. -->
+  <div class="shots">
+    <figure>
+      <a href="img/nash-en-1880.webp" lang="en">
+        <img src="img/nash-en-1100.webp" srcset="img/nash-en-1100.webp 1100w, img/nash-en-1880.webp 1880w"
+             sizes="(min-width: 980px) 940px, calc(100vw - 40px)" width="1880" height="1175" loading="lazy"
+             alt="Nash push/fold in RangeForge: the button's open-shove range three-handed at 10 big blinds, drawn as a colour-coded 13×13 grid of shove frequencies.">
+      </a>
+      <a href="img/nash-ru-1880.webp" lang="ru">
+        <img src="img/nash-ru-1100.webp" srcset="img/nash-ru-1100.webp 1100w, img/nash-ru-1880.webp 1880w"
+             sizes="(min-width: 980px) 940px, calc(100vw - 40px)" width="1880" height="1175" loading="lazy"
+             alt="Nash push/fold в RangeForge: ренж открытого шова с баттона на троих при 10 больших блайндах — цветная матрица 13×13 с частотами шова.">
+      </a>
+      <figcaption>
+        <span lang="en"><strong>Nash push/fold.</strong> Equilibrium shove and call ranges for every
+        seat — here the button at 10bb, three-handed with a big-blind ante, solved right on your Mac.</span>
+        <span lang="ru"><strong>Nash push/fold.</strong> Равновесные ренжи шова и колла для каждой
+        позиции — здесь баттон при 10bb на троих с анте большого блайнда, посчитано прямо на вашем Mac.</span>
+      </figcaption>
+    </figure>
+
+    <div class="shots-row">
+      <figure>
+        <a href="img/review-en-1880.webp" lang="en">
+          <img src="img/review-en-1100.webp" srcset="img/review-en-1100.webp 1100w, img/review-en-1880.webp 1880w"
+               sizes="(min-width: 980px) 515px, (min-width: 641px) 55vw, calc(100vw - 40px)"
+               width="1880" height="1175" loading="lazy"
+               alt="RangeForge's tournament library after a GTO review: losses broken down by position, the worst slice HJ at −3.17 big blinds, above a push/fold leak grid.">
+        </a>
+        <a href="img/review-ru-1880.webp" lang="ru">
+          <img src="img/review-ru-1100.webp" srcset="img/review-ru-1100.webp 1100w, img/review-ru-1880.webp 1880w"
+               sizes="(min-width: 980px) 515px, (min-width: 641px) 55vw, calc(100vw - 40px)"
+               width="1880" height="1175" loading="lazy"
+               alt="Библиотека турниров RangeForge после GTO-разбора: потери по позициям, худший разрез — HJ, −3,17 большого блайнда, ниже — сетка пуш/фолд-ликов.">
+        </a>
+        <figcaption>
+          <span lang="en"><strong>GTO review.</strong> Every push/fold spot in the tournaments you
+          import is solved and scored, so you see which seats and hands cost you big blinds.</span>
+          <span lang="ru"><strong>GTO-разбор.</strong> Каждый пуш/фолд-спот из импортированных
+          турниров решается и оценивается — видно, на каких позициях и руках вы теряете блайнды.</span>
+        </figcaption>
+      </figure>
+      <figure>
+        <a href="img/replayer-en-1880.webp" lang="en">
+          <img src="img/replayer-en-1100.webp" srcset="img/replayer-en-1100.webp 1100w, img/replayer-en-1880.webp 1880w"
+               sizes="(min-width: 980px) 408px, (min-width: 641px) 44vw, calc(100vw - 40px)"
+               width="1880" height="1484" loading="lazy"
+               alt="The RangeForge hand replayer at showdown: a multiway all-in on a 6-8-J-J-4 board, which the hero wins.">
+        </a>
+        <a href="img/replayer-ru-1880.webp" lang="ru">
+          <img src="img/replayer-ru-1100.webp" srcset="img/replayer-ru-1100.webp 1100w, img/replayer-ru-1880.webp 1880w"
+               sizes="(min-width: 980px) 408px, (min-width: 641px) 44vw, calc(100vw - 40px)"
+               width="1880" height="1484" loading="lazy"
+               alt="Реплеер раздач RangeForge на вскрытии: мультивей олл-ин на борде 6-8-J-J-4, банк забирает герой.">
+        </a>
+        <figcaption>
+          <span lang="en"><strong>Hand replayer.</strong> Step through any hand from your
+          hand-history file on a felt table, street by street, down to the showdown.</span>
+          <span lang="ru"><strong>Реплеер раздач.</strong> Любая раздача из вашего файла с историей
+          рук — по действиям за столом, улица за улицей, до вскрытия.</span>
+        </figcaption>
+      </figure>
+    </div>
   </div>
 
   <h2 lang="en">What it does</h2>
@@ -156,6 +243,7 @@
     <nav>
       <a href="index.html" lang="en">Home</a>
       <a href="index.html" lang="ru">Главная</a>
+      <a href="https://apps.apple.com/app/id6792839425">Mac App Store</a>
       <a href="privacy.html" lang="en">Privacy Policy</a>
       <a href="privacy.html" lang="ru">Политика конфиденциальности</a>
       <a href="terms.html" lang="en">Terms of Use</a>
@@ -173,6 +261,5 @@
   </footer>
 
 </div>
-<script src="lang.js"></script>
 </body>
 </html>

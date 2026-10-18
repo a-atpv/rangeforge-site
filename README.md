@@ -8,6 +8,24 @@ plus a landing page:
 | `index.html` | **Support URL** (support section is at `#support`) — also the landing page |
 | `privacy.html` | **Privacy Policy URL** |
 | `terms.html` | Terms of Use (optional for the store; Apple's standard EULA covers the licence) |
+| `samples/` | **Sample-files URL given to App Review** — synthetic hand histories + a zip |
+| `img/` | the Mac App Store badges and the landing page's screenshots |
+
+`samples/` exists because App Review rejected 1.0 (2) under guideline 2.1(a): the replayer and the
+tournament library need a hand-history file before they show anything, and the reviewer had none.
+The same twelve files are also bundled inside the app (`Resources/SampleData`, loaded by the
+"Open the sample session" / "Load the sample tournaments" buttons), so the in-app path does not
+depend on this page staying up — but Apple asked for a hosted copy that stays available for future
+reviews, and this is it. **Do not delete or move `samples/`**, and regenerate the zip if the files
+under `samples/files/` ever change:
+
+```sh
+cd site/samples && rm -f RangeForge-sample-hands.zip && zip -q -j RangeForge-sample-hands.zip files/*.txt
+```
+
+`.nojekyll` turns GitHub Pages' Jekyll pass off. It exists for `samples/files/`, whose names carry
+`#`, `$`, spaces and brackets (they are real GG export names) — Jekyll is free to skip or rewrite
+files like that, and with it off the tree is served byte-for-byte as committed.
 
 No build step, no dependencies, nothing loaded from a CDN. Any static host works.
 
@@ -47,12 +65,20 @@ For App Store Connect:
 
 ### Redeploying after an edit
 
-This directory is the source of truth; the deploy checkout is a copy. Edit here, then:
+This directory is the source of truth; the deploy checkout is a copy — but **not a straight one**.
+The direct-download section is committed here ahead of the first DMG release, and until that
+release exists its button would be a 404 on Apple's Support URL. Every part of it (the section, its
+footer link, its CSS and its notes in this README) is fenced between `dmg-only` marker lines, and
+`deploy_site.sh` in the main repo copies `site/` with those blocks cut out. It refuses to finish if a
+marker or a release link survives. Edit here, then:
 
 ```sh
-cp -R site/. ~/Desktop/rangeforge-site/
-cd ~/Desktop/rangeforge-site && git add -A && git commit -m "..." && git push
+./deploy_site.sh
+cd ~/Desktop/rangeforge-site && git diff && git add -A && git commit -m "..." && git push
 ```
+
+On the day the first DMG is published (RF-003/RF-004), delete the marker lines — keep what is
+between them — and redeploy.
 
 Pages rebuilds in under a minute. Verify before assuming it worked — App Review opens these, and a
 404 on the privacy URL is a rejection:
@@ -62,6 +88,27 @@ for u in "" privacy.html terms.html; do
   curl -sS -o /dev/null -w "%{http_code}  $u\n" "https://a-atpv.github.io/rangeforge-site/$u"
 done
 ```
+
+## The Mac App Store badge
+
+The hero links to `https://apps.apple.com/app/id6792839425` (RangeForge, `com.RangeForge.app`).
+The URL names no storefront on purpose: Apple redirects each visitor to their own country's store
+and adds `mt=12` itself. To count the site's downloads in App Analytics, swap in a campaign link
+from App Store Connect (`?pt=<provider token>&ct=site_en`, and `site_ru` on the Russian badge).
+
+`img/mac-app-store-badge-en.svg` and `-ru.svg` are Apple's own artwork, downloaded unmodified from
+toolbox.marketingtools.apple.com (black badge, en-us and ru-ru). The App Store marketing guidelines
+allow no recolouring or redrawing and nothing shorter than 40 px on screen; the page shows them
+at 44 px.
+
+## Screenshots
+
+`img/<screen>-<lang>-<width>.webp` — Nash, the library's GTO review and the replayer, once per
+language, at 1880 and 1100 px. `docs/AppStore/make_web_screenshots.py` in the main repo makes them
+from 2880×1800 window captures; its docstring says how they were taken. The page never names a
+poker room or shows a money amount — the same rule as the store listing — so the library is
+shown through its review panels rather than its money columns, and the replayer is cropped to
+the table.
 
 ## Custom domain later
 
