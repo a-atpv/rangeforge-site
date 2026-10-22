@@ -31,17 +31,10 @@ No build step, no dependencies, nothing loaded from a CDN. Any static host works
 
 ## Content decisions worth remembering
 
-1. **Support address.** The pages currently show `aldiyar.dev@gmail.com`, chosen to get the site
-   live without waiting on a domain. To move to a `support@` address later, swap it in one pass and
-   redeploy — the URL in App Store Connect stays valid, so this can be done after release:
-
-   ```sh
-   cd site && sed -i '' 's/aldiyar\.dev@gmail\.com/support@yourdomain.tld/g' index.html privacy.html terms.html
-   ```
-
-   A `support@` address needs a domain you own, but mail hosting for it does not have to cost
-   anything — Cloudflare Email Routing forwards `support@yourdomain` to an existing inbox for free,
-   which is plenty for an address that receives a handful of messages.
+1. **Support contact.** No page publishes an email address: support is the Telegram channel
+   [@range_forge](https://t.me/range_forge), linked from the support section, the footer, the
+   privacy policy, the terms and the sample-hands page. The app links the same channel
+   (`HelpLinks.telegram`). If it ever moves, change it in one pass across those pages and the app.
 
 2. There is deliberately **no governing-law clause**. App Store copies are licensed under Apple's
    standard EULA, which carries its own; adding a second one is optional and was dropped rather
