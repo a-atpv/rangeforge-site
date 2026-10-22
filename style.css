@@ -213,6 +213,47 @@ code {
   font-size: 14.5px;
 }
 
+/* ---- FAQ ------------------------------------------------------------- */
+/* Closed by default so the whole list reads at a glance — the same as the app's FAQ page. */
+.faq { display: grid; gap: 8px; max-width: var(--measure); }
+
+.faq details {
+  background: var(--panel);
+  border: 1px solid var(--stroke);
+  border-radius: var(--radius);
+  padding: 0 18px;
+}
+
+.faq summary {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  padding: 12px 0;
+  font-weight: 600;
+  cursor: pointer;
+  list-style: none;
+}
+
+.faq summary::-webkit-details-marker { display: none; }
+
+.faq summary::before {
+  content: "›";
+  flex: none;
+  width: 10px;
+  color: var(--subtext);
+  transition: transform .15s;
+}
+
+.faq details[open] summary::before { transform: rotate(90deg); color: var(--accent); }
+
+.faq details p {
+  margin: 0 0 14px;
+  padding-left: 20px;
+  color: var(--subtext);
+  font-size: 15px;
+  line-height: 1.6;
+}
+
 .updated {
   color: var(--subtext);
   font-size: 13.5px;

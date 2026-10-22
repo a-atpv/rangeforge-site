@@ -192,14 +192,116 @@
     </p>
   </div>
 
+  <!-- The app's Help → FAQ, trimmed to the App Store version: the Pro questions and the
+       payout-screenshot route to an ICM review arrive with 1.2 (the full list is in the main
+       repo's site/index.html). "How do I reach the developer" is the Support section below. -->
+  <div id="faq">
+    <h2 lang="en">FAQ</h2>
+    <h2 lang="ru">Частые вопросы</h2>
+  </div>
+
+  <div class="faq" lang="en">
+    <details>
+      <summary>Which poker sites does it read?</summary>
+      <p>GGPoker and Pokerok: hand histories exported from PokerCraft (.txt files) and the
+      “Tournament #…” result files. RangeForge does not read exports from other sites.</p>
+    </details>
+    <details>
+      <summary>Can I use RangeForge while I play?</summary>
+      <p>No, by design. RangeForge reviews hands you have already played: it never connects to a
+      poker client, gives no advice at the table and reads only the files you open yourself.</p>
+    </details>
+    <details>
+      <summary>Do my hands get sent anywhere?</summary>
+      <p>No. The app has no permission to reach the network — macOS itself won't let it connect
+      anywhere. There are no accounts, no analytics and no tracking: everything is computed on
+      your Mac, with no internet needed.</p>
+    </details>
+    <details>
+      <summary>Where is the tournament library kept?</summary>
+      <p>On your Mac, in the app's folder <code>~/Library/Containers/com.RangeForge.app</code>. The
+      hands are stored verbatim, as exported, and Time Machine backs them up with everything else.
+      Keep the original PokerCraft exports too: the library can be rebuilt from them.</p>
+    </details>
+    <details>
+      <summary>Why didn't the GTO review score every hand?</summary>
+      <p>The review checks push/fold spots only — all-in-or-fold decisions on a short stack. That
+      is usually a small share of the hands; every other decision is left unscored. A hand with a
+      flop can be opened in the Replayer and sent to the postflop solver.</p>
+    </details>
+    <details>
+      <summary>How do I review a tournament under ICM rather than in chips?</summary>
+      <p>ICM needs the payout ladder. In the Replayer, set the payout ladder before
+      <strong>Review session</strong>. With no ladder the review runs in chip EV.</p>
+    </details>
+    <details>
+      <summary>Why is the GTO review so slow?</summary>
+      <p>Every push/fold spot is solved from scratch, right on your Mac — hours on a large
+      library. Start with one tournament: the <strong>Review</strong> button on its card.</p>
+    </details>
+    <details>
+      <summary>Why doesn't luck match Hold'em Manager?</summary>
+      <p>In RangeForge, luck = actual − EV: positive means the cards ran better than they should
+      have. Hold'em Manager's EV Diff column is the other way round, so the signs are opposite.</p>
+    </details>
+  </div>
+
+  <div class="faq" lang="ru">
+    <details>
+      <summary>Какие румы поддерживаются?</summary>
+      <p>GGPoker и Pokerok: история рук, выгруженная из PokerCraft (файлы .txt), и файлы
+      результатов турниров «Tournament #…». Выгрузки других румов RangeForge не читает.</p>
+    </details>
+    <details>
+      <summary>Можно ли пользоваться RangeForge во время игры?</summary>
+      <p>Нет, и так задумано. RangeForge разбирает уже сыгранные раздачи: он не подключается к
+      покерному клиенту, ничего не подсказывает за столом и читает только те файлы, которые вы
+      открыли сами.</p>
+    </details>
+    <details>
+      <summary>Мои раздачи куда-нибудь отправляются?</summary>
+      <p>Нет. У приложения нет разрешения на выход в сеть — macOS сама не даст ему никуда
+      подключиться. Нет аккаунтов, аналитики и отслеживания: всё считается на вашем Mac, интернет
+      не нужен.</p>
+    </details>
+    <details>
+      <summary>Где хранится база турниров?</summary>
+      <p>На вашем Mac, в папке приложения <code>~/Library/Containers/com.RangeForge.app</code>.
+      Руки лежат дословно, как в выгрузке, и Time Machine копирует их вместе с остальными файлами.
+      Исходные выгрузки PokerCraft тоже лучше сохранить: из них базу можно собрать заново.</p>
+    </details>
+    <details>
+      <summary>Почему GTO-разбор оценил не все раздачи?</summary>
+      <p>Разбор проверяет только пуш/фолд-споты — решения «олл-ин или фолд» на коротком стеке.
+      Обычно это небольшая часть рук, остальные решения остаются без оценки. Раздачу с флопом можно
+      открыть в реплеере и отправить в постфлоп-солвер.</p>
+    </details>
+    <details>
+      <summary>Как разобрать турнир по ICM, а не в фишках?</summary>
+      <p>Для ICM нужна сетка выплат. В реплеере задайте сетку выплат перед
+      <strong>«Разобрать сессию»</strong>. Без сетки разбор идёт в чипEV.</p>
+    </details>
+    <details>
+      <summary>Почему GTO-разбор идёт так долго?</summary>
+      <p>Каждый пуш/фолд-спот решается солвером заново, прямо на вашем Mac, — на большой базе это
+      часы. Начните с одного турнира: кнопка <strong>«Разобрать»</strong> в его карточке.</p>
+    </details>
+    <details>
+      <summary>Почему «удача» не совпадает с Hold'em Manager?</summary>
+      <p>В RangeForge «удача» = факт − EV: плюс значит, что карты легли лучше, чем должны были.
+      В Hold'em Manager колонка EV Diff считается наоборот, поэтому знаки противоположны.</p>
+    </details>
+  </div>
+
   <h2 id="support" lang="en">Support</h2>
   <h2 id="support-ru" lang="ru">Поддержка</h2>
 
   <div class="panel prose">
-    <p lang="en">Questions, bug reports and feature requests all go to one place:</p>
-    <p lang="ru">Вопросы, сообщения об ошибках и пожелания — на один адрес:</p>
+    <p lang="en">Questions, bug reports and feature requests:</p>
+    <p lang="ru">Вопросы, сообщения об ошибках и пожелания:</p>
 
-    <p style="font-size:18px"><a href="mailto:aldiyar.dev@gmail.com">aldiyar.dev@gmail.com</a></p>
+    <p style="font-size:18px"><a href="mailto:aldiyar.dev@gmail.com">aldiyar.dev@gmail.com</a><br>
+    <a href="https://t.me/range_forge">Telegram: @range_forge</a></p>
 
     <p lang="en">Replies usually arrive within a few days. To get a useful answer on the first
     exchange, please include:</p>
@@ -250,7 +352,10 @@
       <a href="terms.html" lang="ru">Условия использования</a>
       <a href="samples/" lang="en">Sample hands</a>
       <a href="samples/" lang="ru">Примеры раздач</a>
+      <a href="index.html#faq" lang="en">FAQ</a>
+      <a href="index.html#faq" lang="ru">Частые вопросы</a>
       <a href="mailto:aldiyar.dev@gmail.com">aldiyar.dev@gmail.com</a>
+      <a href="https://t.me/range_forge">Telegram</a>
     </nav>
     <p class="disclaimer" lang="en">RangeForge is a study and analysis tool for poker theory. It
     does not offer real-money or simulated gambling, and it is not affiliated with any poker
